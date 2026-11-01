@@ -1,0 +1,566 @@
+{
+ "seed": 2027,
+ "synthetic": true,
+ "notice": "Unofficial demo built with Devin - synthetic data. All records are fictional.",
+ "queries": [
+  {
+   "id": "Q01",
+   "query": "Pet-friendly cabin in Gatlinburg with a hot tub",
+   "tags": [
+    "multi-constraint"
+   ],
+   "gold": {
+    "destination": "Gatlinburg",
+    "types": [
+     "cabin"
+    ],
+    "pets": true,
+    "amenities": [
+     "hot tub"
+    ]
+   },
+   "relevant_ids": [
+    "VR-1041",
+    "VR-1045"
+   ]
+  },
+  {
+   "id": "Q02",
+   "query": "Beach house in the Outer Banks that sleeps 10 with a pool",
+   "tags": [
+    "numeric",
+    "multi-constraint"
+   ],
+   "gold": {
+    "destination": "Outer Banks",
+    "types": [
+     "beach house"
+    ],
+    "min_sleeps": 10,
+    "amenities": [
+     "pool"
+    ]
+   },
+   "relevant_ids": [
+    "VR-1015",
+    "VR-1016"
+   ]
+  },
+  {
+   "id": "Q03",
+   "query": "Somewhere in Tahoe for 8 people under $500 a night",
+   "tags": [
+    "numeric"
+   ],
+   "gold": {
+    "destination": "Lake Tahoe",
+    "min_sleeps": 8,
+    "max_price": 500
+   },
+   "relevant_ids": [
+    "VR-1005",
+    "VR-1012"
+   ]
+  },
+  {
+   "id": "Q04",
+   "query": "Dog friendly place on Cape Cod",
+   "tags": [
+    "paraphrase"
+   ],
+   "gold": {
+    "destination": "Cape Cod",
+    "pets": true
+   },
+   "relevant_ids": [
+    "VR-1074",
+    "VR-1075",
+    "VR-1077",
+    "VR-1078",
+    "VR-1082"
+   ]
+  },
+  {
+   "id": "Q05",
+   "query": "Ski-in ski-out condo in Breckenridge with a jacuzzi",
+   "tags": [
+    "paraphrase",
+    "multi-constraint"
+   ],
+   "gold": {
+    "destination": "Breckenridge",
+    "types": [
+     "condo"
+    ],
+    "tags": [
+     "ski-in/ski-out"
+    ],
+    "amenities": [
+     "hot tub"
+    ]
+   },
+   "relevant_ids": [
+    "VR-1061",
+    "VR-1068"
+   ]
+  },
+  {
+   "id": "Q06",
+   "query": "Quiet desert getaway in Joshua Tree",
+   "tags": [
+    "review-vibe"
+   ],
+   "gold": {
+    "destination": "Joshua Tree",
+    "vibes": [
+     "quiet"
+    ]
+   },
+   "relevant_ids": [
+    "VR-1123",
+    "VR-1127",
+    "VR-1130"
+   ]
+  },
+  {
+   "id": "Q07",
+   "query": "Family of 6 near the theme parks with a pool and game room",
+   "tags": [
+    "paraphrase",
+    "numeric"
+   ],
+   "gold": {
+    "destination": "Kissimmee",
+    "min_sleeps": 6,
+    "amenities": [
+     "pool",
+     "game room"
+    ]
+   },
+   "relevant_ids": [
+    "VR-1097",
+    "VR-1104",
+    "VR-1105",
+    "VR-1106",
+    "VR-1108"
+   ]
+  },
+  {
+   "id": "Q08",
+   "query": "Lakefront cottage in Door County with kayaks",
+   "tags": [
+    "multi-constraint"
+   ],
+   "gold": {
+    "destination": "Door County",
+    "types": [
+     "cottage"
+    ],
+    "tags": [
+     "lakefront"
+    ],
+    "amenities": [
+     "kayaks"
+    ]
+   },
+   "relevant_ids": [
+    "VR-1109",
+    "VR-1118"
+   ]
+  },
+  {
+   "id": "Q09",
+   "query": "Romantic cabin with a fireplace in the Smokies",
+   "tags": [
+    "paraphrase",
+    "review-vibe"
+   ],
+   "gold": {
+    "destination": "Gatlinburg",
+    "types": [
+     "cabin"
+    ],
+    "amenities": [
+     "fireplace"
+    ],
+    "vibes": [
+     "romantic"
+    ]
+   },
+   "relevant_ids": [
+    "VR-1045",
+    "VR-1048"
+   ]
+  },
+  {
+   "id": "Q10",
+   "query": "3 bedroom beachfront in Gulf Shores under $400",
+   "tags": [
+    "numeric"
+   ],
+   "gold": {
+    "destination": "Gulf Shores",
+    "min_bedrooms": 3,
+    "tags": [
+     "beachfront"
+    ],
+    "max_price": 400
+   },
+   "relevant_ids": [
+    "VR-1027",
+    "VR-1035",
+    "VR-1036"
+   ]
+  },
+  {
+   "id": "Q11",
+   "query": "Remote work friendly rental in Scottsdale with a pool",
+   "tags": [
+    "paraphrase"
+   ],
+   "gold": {
+    "destination": "Scottsdale",
+    "amenities": [
+     "workspace",
+     "pool"
+    ]
+   },
+   "relevant_ids": [
+    "VR-1050",
+    "VR-1056",
+    "VR-1060"
+   ]
+  },
+  {
+   "id": "Q12",
+   "query": "Oceanfront condo in Hilton Head that allows dogs",
+   "tags": [
+    "paraphrase",
+    "multi-constraint"
+   ],
+   "gold": {
+    "destination": "Hilton Head",
+    "types": [
+     "condo"
+    ],
+    "tags": [
+     "beachfront"
+    ],
+    "pets": true
+   },
+   "relevant_ids": [
+    "VR-1142",
+    "VR-1144"
+   ]
+  },
+  {
+   "id": "Q13",
+   "query": "Fredericksburg farmhouse for a group of 12",
+   "tags": [
+    "paraphrase",
+    "numeric"
+   ],
+   "gold": {
+    "destination": "Fredericksburg",
+    "types": [
+     "farmhouse"
+    ],
+    "min_sleeps": 12
+   },
+   "relevant_ids": [
+    "VR-1085",
+    "VR-1089"
+   ]
+  },
+  {
+   "id": "Q14",
+   "query": "Kid-friendly Tahoe cabin with a hot tub",
+   "tags": [
+    "review-vibe"
+   ],
+   "gold": {
+    "destination": "Lake Tahoe",
+    "types": [
+     "cabin"
+    ],
+    "amenities": [
+     "hot tub"
+    ],
+    "vibes": [
+     "kid-friendly"
+    ]
+   },
+   "relevant_ids": [
+    "VR-1004",
+    "VR-1007"
+   ]
+  },
+  {
+   "id": "Q15",
+   "query": "Cheap beach stay in Gulf Shores for 4",
+   "tags": [
+    "paraphrase",
+    "numeric"
+   ],
+   "gold": {
+    "destination": "Gulf Shores",
+    "min_sleeps": 4,
+    "max_price": 200
+   },
+   "relevant_ids": [
+    "VR-1029",
+    "VR-1031"
+   ]
+  },
+  {
+   "id": "Q16",
+   "query": "EV charging and a fireplace in Breckenridge",
+   "tags": [
+    "paraphrase"
+   ],
+   "gold": {
+    "destination": "Breckenridge",
+    "amenities": [
+     "ev charger",
+     "fireplace"
+    ]
+   },
+   "relevant_ids": [
+    "VR-1063",
+    "VR-1068",
+    "VR-1072"
+   ]
+  },
+  {
+   "id": "Q17",
+   "query": "Lake house in Lake Tahoe with a dock that sleeps 12",
+   "tags": [
+    "numeric",
+    "multi-constraint"
+   ],
+   "gold": {
+    "destination": "Lake Tahoe",
+    "types": [
+     "lake house"
+    ],
+    "amenities": [
+     "dock"
+    ],
+    "min_sleeps": 12
+   },
+   "relevant_ids": [
+    "VR-1006",
+    "VR-1009"
+   ]
+  },
+  {
+   "id": "Q18",
+   "query": "Walkable Cape Cod cottage with a washer",
+   "tags": [
+    "multi-constraint"
+   ],
+   "gold": {
+    "destination": "Cape Cod",
+    "types": [
+     "cottage"
+    ],
+    "tags": [
+     "walkable"
+    ],
+    "amenities": [
+     "washer"
+    ]
+   },
+   "relevant_ids": [
+    "VR-1080",
+    "VR-1081"
+   ]
+  },
+  {
+   "id": "Q19",
+   "query": "Two couples in Scottsdale, want a hot tub and pool",
+   "tags": [
+    "paraphrase",
+    "numeric"
+   ],
+   "gold": {
+    "destination": "Scottsdale",
+    "min_sleeps": 4,
+    "amenities": [
+     "hot tub",
+     "pool"
+    ]
+   },
+   "relevant_ids": [
+    "VR-1050",
+    "VR-1056"
+   ]
+  },
+  {
+   "id": "Q20",
+   "query": "OBX pet friendly with ocean view under $350",
+   "tags": [
+    "paraphrase",
+    "numeric"
+   ],
+   "gold": {
+    "destination": "Outer Banks",
+    "pets": true,
+    "tags": [
+     "ocean view"
+    ],
+    "max_price": 350
+   },
+   "relevant_ids": [
+    "VR-1018",
+    "VR-1019"
+   ]
+  },
+  {
+   "id": "Q21",
+   "query": "Secluded mountain cabin in Gatlinburg for a peaceful weekend",
+   "tags": [
+    "review-vibe",
+    "paraphrase"
+   ],
+   "gold": {
+    "destination": "Gatlinburg",
+    "types": [
+     "cabin"
+    ],
+    "vibes": [
+     "quiet"
+    ]
+   },
+   "relevant_ids": [
+    "VR-1041",
+    "VR-1045",
+    "VR-1048"
+   ]
+  },
+  {
+   "id": "Q22",
+   "query": "5-bedroom place in Kissimmee with a pool, budget $350 per night",
+   "tags": [
+    "numeric",
+    "paraphrase"
+   ],
+   "gold": {
+    "destination": "Kissimmee",
+    "min_bedrooms": 5,
+    "amenities": [
+     "pool"
+    ],
+    "max_price": 350
+   },
+   "relevant_ids": [
+    "VR-1102",
+    "VR-1107"
+   ]
+  },
+  {
+   "id": "Q23",
+   "query": "Door County cabin with a sauna and fireplace",
+   "tags": [
+    "multi-constraint"
+   ],
+   "gold": {
+    "destination": "Door County",
+    "types": [
+     "cabin"
+    ],
+    "amenities": [
+     "sauna",
+     "fireplace"
+    ]
+   },
+   "relevant_ids": [
+    "VR-1111",
+    "VR-1112"
+   ]
+  },
+  {
+   "id": "Q24",
+   "query": "Joshua Tree casita for a romantic anniversary with a hot tub",
+   "tags": [
+    "review-vibe"
+   ],
+   "gold": {
+    "destination": "Joshua Tree",
+    "types": [
+     "casita"
+    ],
+    "amenities": [
+     "hot tub"
+    ],
+    "vibes": [
+     "romantic"
+    ]
+   },
+   "relevant_ids": [
+    "VR-1124",
+    "VR-1126"
+   ]
+  },
+  {
+   "id": "Q25",
+   "query": "A cabin anywhere except Gatlinburg with a hot tub and fireplace",
+   "tags": [
+    "negation",
+    "known-hard"
+   ],
+   "gold": {
+    "not_destination": "Gatlinburg",
+    "types": [
+     "cabin"
+    ],
+    "amenities": [
+     "hot tub",
+     "fireplace"
+    ]
+   },
+   "relevant_ids": [
+    "VR-1003",
+    "VR-1004",
+    "VR-1071",
+    "VR-1111",
+    "VR-1119"
+   ]
+  },
+  {
+   "id": "Q26",
+   "query": "Sleeps at least 10, no more than $400 a night, any destination",
+   "tags": [
+    "numeric",
+    "known-hard"
+   ],
+   "gold": {
+    "min_sleeps": 10,
+    "max_price": 400
+   },
+   "relevant_ids": [
+    "VR-1032",
+    "VR-1033",
+    "VR-1034",
+    "VR-1037",
+    "VR-1053",
+    "VR-1085",
+    "VR-1086",
+    "VR-1088",
+    "VR-1089",
+    "VR-1091",
+    "VR-1100",
+    "VR-1102",
+    "VR-1107",
+    "VR-1108",
+    "VR-1112",
+    "VR-1113",
+    "VR-1125",
+    "VR-1126",
+    "VR-1127",
+    "VR-1128",
+    "VR-1132"
+   ]
+  }
+ ]
+}

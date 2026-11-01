@@ -1,0 +1,7381 @@
+{
+ "seed": 2027,
+ "synthetic": true,
+ "notice": "Unofficial demo built with Devin - synthetic data. All records are fictional.",
+ "listings": [
+  {
+   "id": "VR-1001",
+   "title": "Bluebird Bend Cottage",
+   "destination": "Lake Tahoe",
+   "state": "CA",
+   "scenes": [
+    "lake",
+    "mountain",
+    "ski"
+   ],
+   "type": "cottage",
+   "bedrooms": 2,
+   "bathrooms": 2,
+   "sleeps": 4,
+   "nightly_price": 355,
+   "pet_friendly": false,
+   "amenities": [
+    "fireplace",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "sauna",
+    "wifi"
+   ],
+   "tags": [
+    "lakefront",
+    "mountain view"
+   ],
+   "rating": 4.9,
+   "review_count": 220,
+   "description": "A 2-bedroom cottage in Lake Tahoe, CA that sleeps 4. Lakefront lot with its own stretch of shoreline. Big windows frame the mountain views. Thoughtfully furnished with local art. Amenities: fireplace, grill, hot tub, sauna, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1001-R1",
+     "author": "Sofia O.",
+     "date": "2026-02-12",
+     "rating": 4,
+     "text": "Secluded and private; we barely saw another car all weekend."
+    },
+    {
+     "id": "VR-1001-R2",
+     "author": "Jordan R.",
+     "date": "2026-07-10",
+     "rating": 5,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1001-R3",
+     "author": "Priya N.",
+     "date": "2026-02-03",
+     "rating": 5,
+     "text": "Our kids loved it - plenty of space for them to play."
+    }
+   ]
+  },
+  {
+   "id": "VR-1002",
+   "title": "Foxglove Cove Condo",
+   "destination": "Lake Tahoe",
+   "state": "CA",
+   "scenes": [
+    "lake",
+    "mountain",
+    "ski"
+   ],
+   "type": "condo",
+   "bedrooms": 5,
+   "bathrooms": 4,
+   "sleeps": 11,
+   "nightly_price": 575,
+   "pet_friendly": false,
+   "amenities": [
+    "dock",
+    "fireplace",
+    "hot tub",
+    "kitchen",
+    "sauna",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "walkable"
+   ],
+   "rating": 4.4,
+   "review_count": 130,
+   "description": "A 5-bedroom condo in Lake Tahoe, CA that sleeps 11. Walkable to shops and restaurants in town. Open-plan living area with plenty of natural light. Amenities: dock, fireplace, hot tub, sauna, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1002-R1",
+     "author": "Chloe M.",
+     "date": "2026-07-22",
+     "rating": 3,
+     "text": "Beds were comfortable and the kitchen had everything we needed."
+    },
+    {
+     "id": "VR-1002-R2",
+     "author": "Ravi C.",
+     "date": "2026-04-16",
+     "rating": 3,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1002-R3",
+     "author": "Hannah P.",
+     "date": "2026-09-26",
+     "rating": 4,
+     "text": "Great for families with little ones; the host left board games."
+    }
+   ]
+  },
+  {
+   "id": "VR-1003",
+   "title": "Sandpiper Hideaway Cabin",
+   "destination": "Lake Tahoe",
+   "state": "CA",
+   "scenes": [
+    "lake",
+    "mountain",
+    "ski"
+   ],
+   "type": "cabin",
+   "bedrooms": 3,
+   "bathrooms": 2,
+   "sleeps": 6,
+   "nightly_price": 555,
+   "pet_friendly": false,
+   "amenities": [
+    "fireplace",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "lakefront",
+    "mountain view"
+   ],
+   "rating": 4.8,
+   "review_count": 168,
+   "description": "A 3-bedroom cabin in Lake Tahoe, CA that sleeps 6. Lakefront lot with its own stretch of shoreline. Big windows frame the mountain views. Open-plan living area with plenty of natural light. Amenities: fireplace, grill, hot tub, pool, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1003-R1",
+     "author": "Omar K.",
+     "date": "2026-03-12",
+     "rating": 5,
+     "text": "Check-in was easy and the host was responsive."
+    },
+    {
+     "id": "VR-1003-R2",
+     "author": "Felix A.",
+     "date": "2026-07-01",
+     "rating": 4,
+     "text": "Evenings by the fireplace were the best part."
+    },
+    {
+     "id": "VR-1003-R3",
+     "author": "Dmitri X.",
+     "date": "2026-05-12",
+     "rating": 5,
+     "text": "Spotless and exactly as pictured."
+    }
+   ]
+  },
+  {
+   "id": "VR-1004",
+   "title": "Heron Cove Cabin",
+   "destination": "Lake Tahoe",
+   "state": "CA",
+   "scenes": [
+    "lake",
+    "mountain",
+    "ski"
+   ],
+   "type": "cabin",
+   "bedrooms": 4,
+   "bathrooms": 4,
+   "sleeps": 9,
+   "nightly_price": 545,
+   "pet_friendly": false,
+   "amenities": [
+    "fireplace",
+    "grill",
+    "hot tub",
+    "kayaks",
+    "kitchen",
+    "wifi"
+   ],
+   "tags": [
+    "lakefront",
+    "mountain view",
+    "walkable"
+   ],
+   "rating": 4.1,
+   "review_count": 105,
+   "description": "A 4-bedroom cabin in Lake Tahoe, CA that sleeps 9. Lakefront lot with its own stretch of shoreline. Big windows frame the mountain views. Walkable to shops and restaurants in town. Open-plan living area with plenty of natural light. Amenities: fireplace, grill, hot tub, kayaks, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1004-R1",
+     "author": "Kenji G.",
+     "date": "2026-02-26",
+     "rating": 5,
+     "text": "The children had a blast and never wanted to leave."
+    },
+    {
+     "id": "VR-1004-R2",
+     "author": "Hannah J.",
+     "date": "2026-08-14",
+     "rating": 5,
+     "text": "Lively area - expect some street noise on weekends."
+    },
+    {
+     "id": "VR-1004-R3",
+     "author": "Dmitri Q.",
+     "date": "2026-07-24",
+     "rating": 5,
+     "text": "The hot tub was the highlight of the trip."
+    }
+   ]
+  },
+  {
+   "id": "VR-1005",
+   "title": "Heron Point Condo",
+   "destination": "Lake Tahoe",
+   "state": "CA",
+   "scenes": [
+    "lake",
+    "mountain",
+    "ski"
+   ],
+   "type": "condo",
+   "bedrooms": 4,
+   "bathrooms": 3,
+   "sleeps": 9,
+   "nightly_price": 470,
+   "pet_friendly": false,
+   "amenities": [
+    "dock",
+    "ev charger",
+    "game room",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.8,
+   "review_count": 239,
+   "description": "A 4-bedroom condo in Lake Tahoe, CA that sleeps 9. Comfortable, well-kept and easy to settle into. Amenities: dock, ev charger, game room, grill, hot tub, pool, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1005-R1",
+     "author": "Dmitri Y.",
+     "date": "2026-01-09",
+     "rating": 5,
+     "text": "The game room kept everyone entertained."
+    },
+    {
+     "id": "VR-1005-R2",
+     "author": "Jordan K.",
+     "date": "2026-03-04",
+     "rating": 5,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1005-R3",
+     "author": "Felix O.",
+     "date": "2026-07-21",
+     "rating": 5,
+     "text": "Secluded and private; we barely saw another car all weekend."
+    }
+   ]
+  },
+  {
+   "id": "VR-1006",
+   "title": "Harbor Nest Lake House",
+   "destination": "Lake Tahoe",
+   "state": "CA",
+   "scenes": [
+    "lake",
+    "mountain",
+    "ski"
+   ],
+   "type": "lake house",
+   "bedrooms": 6,
+   "bathrooms": 3,
+   "sleeps": 12,
+   "nightly_price": 695,
+   "pet_friendly": false,
+   "amenities": [
+    "dock",
+    "fireplace",
+    "hot tub",
+    "kayaks",
+    "kitchen",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "mountain view",
+    "walkable"
+   ],
+   "rating": 4.4,
+   "review_count": 104,
+   "description": "A 6-bedroom lake house in Lake Tahoe, CA that sleeps 12. Big windows frame the mountain views. Walkable to shops and restaurants in town. Comfortable, well-kept and easy to settle into. Amenities: dock, fireplace, hot tub, kayaks, washer, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1006-R1",
+     "author": "Chloe Y.",
+     "date": "2026-01-13",
+     "rating": 4,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1006-R2",
+     "author": "Ravi O.",
+     "date": "2026-09-14",
+     "rating": 4,
+     "text": "Lively area - expect some street noise on weekends."
+    },
+    {
+     "id": "VR-1006-R3",
+     "author": "Mateo L.",
+     "date": "2026-05-26",
+     "rating": 4,
+     "text": "Evenings by the fireplace were the best part."
+    }
+   ]
+  },
+  {
+   "id": "VR-1007",
+   "title": "Starlight Retreat Cabin",
+   "destination": "Lake Tahoe",
+   "state": "CA",
+   "scenes": [
+    "lake",
+    "mountain",
+    "ski"
+   ],
+   "type": "cabin",
+   "bedrooms": 5,
+   "bathrooms": 5,
+   "sleeps": 10,
+   "nightly_price": 590,
+   "pet_friendly": false,
+   "amenities": [
+    "hot tub",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "lakefront"
+   ],
+   "rating": 4.7,
+   "review_count": 231,
+   "description": "A 5-bedroom cabin in Lake Tahoe, CA that sleeps 10. Lakefront lot with its own stretch of shoreline. Recently refreshed interiors throughout. Amenities: hot tub, washer, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1007-R1",
+     "author": "Lucia V.",
+     "date": "2026-04-21",
+     "rating": 4,
+     "text": "The desk setup made working remotely easy."
+    },
+    {
+     "id": "VR-1007-R2",
+     "author": "Hannah Y.",
+     "date": "2026-05-23",
+     "rating": 5,
+     "text": "Secluded and private; we barely saw another car all weekend."
+    },
+    {
+     "id": "VR-1007-R3",
+     "author": "Omar I.",
+     "date": "2026-03-12",
+     "rating": 5,
+     "text": "Great for families with little ones; the host left board games."
+    }
+   ]
+  },
+  {
+   "id": "VR-1008",
+   "title": "Saltwind Perch Cottage",
+   "destination": "Lake Tahoe",
+   "state": "CA",
+   "scenes": [
+    "lake",
+    "mountain",
+    "ski"
+   ],
+   "type": "cottage",
+   "bedrooms": 2,
+   "bathrooms": 2,
+   "sleeps": 5,
+   "nightly_price": 325,
+   "pet_friendly": true,
+   "amenities": [
+    "fireplace",
+    "kitchen",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "mountain view",
+    "ski-in/ski-out"
+   ],
+   "rating": 4.4,
+   "review_count": 188,
+   "description": "A 2-bedroom cottage in Lake Tahoe, CA that sleeps 5. Big windows frame the mountain views. Ski-in/ski-out access to the nearest lift. Thoughtfully furnished with local art. Amenities: fireplace, washer, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1008-R1",
+     "author": "Mateo L.",
+     "date": "2026-03-23",
+     "rating": 3,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1008-R2",
+     "author": "Priya F.",
+     "date": "2026-07-05",
+     "rating": 5,
+     "text": "Plenty of parking and easy access."
+    },
+    {
+     "id": "VR-1008-R3",
+     "author": "Ingrid G.",
+     "date": "2026-04-01",
+     "rating": 4,
+     "text": "Evenings by the fireplace were the best part."
+    }
+   ]
+  },
+  {
+   "id": "VR-1009",
+   "title": "Ember Ridge Lake House",
+   "destination": "Lake Tahoe",
+   "state": "CA",
+   "scenes": [
+    "lake",
+    "mountain",
+    "ski"
+   ],
+   "type": "lake house",
+   "bedrooms": 6,
+   "bathrooms": 3,
+   "sleeps": 12,
+   "nightly_price": 590,
+   "pet_friendly": false,
+   "amenities": [
+    "dock",
+    "fireplace",
+    "grill",
+    "kayaks",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "mountain view"
+   ],
+   "rating": 4.9,
+   "review_count": 117,
+   "description": "A 6-bedroom lake house in Lake Tahoe, CA that sleeps 12. Big windows frame the mountain views. Recently refreshed interiors throughout. Amenities: dock, fireplace, grill, kayaks, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1009-R1",
+     "author": "Marcus I.",
+     "date": "2026-08-03",
+     "rating": 5,
+     "text": "Evenings by the fireplace were the best part."
+    },
+    {
+     "id": "VR-1009-R2",
+     "author": "Amara E.",
+     "date": "2026-09-08",
+     "rating": 5,
+     "text": "Our kids loved it - plenty of space for them to play."
+    },
+    {
+     "id": "VR-1009-R3",
+     "author": "Kenji G.",
+     "date": "2026-05-18",
+     "rating": 5,
+     "text": "Great location for exploring the area."
+    }
+   ]
+  },
+  {
+   "id": "VR-1010",
+   "title": "Tamarack Ridge Lodge",
+   "destination": "Lake Tahoe",
+   "state": "CA",
+   "scenes": [
+    "lake",
+    "mountain",
+    "ski"
+   ],
+   "type": "lodge",
+   "bedrooms": 3,
+   "bathrooms": 3,
+   "sleeps": 6,
+   "nightly_price": 450,
+   "pet_friendly": false,
+   "amenities": [
+    "dock",
+    "fireplace",
+    "grill",
+    "kitchen",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "lakefront",
+    "ski-in/ski-out"
+   ],
+   "rating": 4.9,
+   "review_count": 95,
+   "description": "A 3-bedroom lodge in Lake Tahoe, CA that sleeps 6. Lakefront lot with its own stretch of shoreline. Ski-in/ski-out access to the nearest lift. Comfortable, well-kept and easy to settle into. Amenities: dock, fireplace, grill, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1010-R1",
+     "author": "Theo C.",
+     "date": "2026-05-06",
+     "rating": 5,
+     "text": "The desk setup made working remotely easy."
+    },
+    {
+     "id": "VR-1010-R2",
+     "author": "Kenji T.",
+     "date": "2026-07-08",
+     "rating": 5,
+     "text": "The children had a blast and never wanted to leave."
+    },
+    {
+     "id": "VR-1010-R3",
+     "author": "Felix R.",
+     "date": "2026-05-07",
+     "rating": 5,
+     "text": "Beds were comfortable and the kitchen had everything we needed."
+    }
+   ]
+  },
+  {
+   "id": "VR-1011",
+   "title": "Willow Hollow Lake House",
+   "destination": "Lake Tahoe",
+   "state": "CA",
+   "scenes": [
+    "lake",
+    "mountain",
+    "ski"
+   ],
+   "type": "lake house",
+   "bedrooms": 6,
+   "bathrooms": 5,
+   "sleeps": 14,
+   "nightly_price": 775,
+   "pet_friendly": true,
+   "amenities": [
+    "fireplace",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "sauna",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "lakefront",
+    "ski-in/ski-out"
+   ],
+   "rating": 4.8,
+   "review_count": 213,
+   "description": "A 6-bedroom lake house in Lake Tahoe, CA that sleeps 14. Lakefront lot with its own stretch of shoreline. Ski-in/ski-out access to the nearest lift. Thoughtfully furnished with local art. Amenities: fireplace, grill, hot tub, sauna, washer, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1011-R1",
+     "author": "Felix V.",
+     "date": "2026-07-12",
+     "rating": 5,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1011-R2",
+     "author": "Omar Z.",
+     "date": "2026-07-09",
+     "rating": 5,
+     "text": "So peaceful and quiet at night - we could hear the wind in the trees."
+    },
+    {
+     "id": "VR-1011-R3",
+     "author": "Jordan S.",
+     "date": "2026-02-13",
+     "rating": 4,
+     "text": "Spotless and exactly as pictured."
+    }
+   ]
+  },
+  {
+   "id": "VR-1012",
+   "title": "Bramble Hideaway Cottage",
+   "destination": "Lake Tahoe",
+   "state": "CA",
+   "scenes": [
+    "lake",
+    "mountain",
+    "ski"
+   ],
+   "type": "cottage",
+   "bedrooms": 3,
+   "bathrooms": 3,
+   "sleeps": 8,
+   "nightly_price": 440,
+   "pet_friendly": false,
+   "amenities": [
+    "fireplace",
+    "grill",
+    "kitchen",
+    "wifi"
+   ],
+   "tags": [
+    "lakefront",
+    "mountain view"
+   ],
+   "rating": 4.3,
+   "review_count": 9,
+   "description": "A 3-bedroom cottage in Lake Tahoe, CA that sleeps 8. Lakefront lot with its own stretch of shoreline. Big windows frame the mountain views. Recently refreshed interiors throughout. Amenities: fireplace, grill, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1012-R1",
+     "author": "Nadia Q.",
+     "date": "2026-03-08",
+     "rating": 3,
+     "text": "Great for families with little ones; the host left board games."
+    },
+    {
+     "id": "VR-1012-R2",
+     "author": "Marcus U.",
+     "date": "2026-09-20",
+     "rating": 5,
+     "text": "Evenings by the fireplace were the best part."
+    },
+    {
+     "id": "VR-1012-R3",
+     "author": "Chloe X.",
+     "date": "2026-01-27",
+     "rating": 4,
+     "text": "Would happily book again."
+    }
+   ]
+  },
+  {
+   "id": "VR-1013",
+   "title": "Larkspur Lookout Cottage",
+   "destination": "Outer Banks",
+   "state": "NC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "cottage",
+   "bedrooms": 8,
+   "bathrooms": 8,
+   "sleeps": 16,
+   "nightly_price": 565,
+   "pet_friendly": false,
+   "amenities": [
+    "grill",
+    "kayaks",
+    "kitchen",
+    "workspace"
+   ],
+   "tags": [
+    "walkable"
+   ],
+   "rating": 4.5,
+   "review_count": 231,
+   "description": "A 8-bedroom cottage in Outer Banks, NC that sleeps 16. Walkable to shops and restaurants in town. Comfortable, well-kept and easy to settle into. Amenities: grill, kayaks, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1013-R1",
+     "author": "Omar D.",
+     "date": "2026-04-24",
+     "rating": 4,
+     "text": "Great for families with little ones; the host left board games."
+    },
+    {
+     "id": "VR-1013-R2",
+     "author": "Priya R.",
+     "date": "2026-07-26",
+     "rating": 4,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1013-R3",
+     "author": "Kenji S.",
+     "date": "2026-02-20",
+     "rating": 5,
+     "text": "The desk setup made working remotely easy."
+    }
+   ]
+  },
+  {
+   "id": "VR-1014",
+   "title": "Lantern Hearth Condo",
+   "destination": "Outer Banks",
+   "state": "NC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "condo",
+   "bedrooms": 5,
+   "bathrooms": 5,
+   "sleeps": 10,
+   "nightly_price": 520,
+   "pet_friendly": false,
+   "amenities": [
+    "grill",
+    "hot tub",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.3,
+   "review_count": 102,
+   "description": "A 5-bedroom condo in Outer Banks, NC that sleeps 10. Open-plan living area with plenty of natural light. Amenities: grill, hot tub, pool, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1014-R1",
+     "author": "Jordan S.",
+     "date": "2026-06-21",
+     "rating": 5,
+     "text": "Our kids loved it - plenty of space for them to play."
+    },
+    {
+     "id": "VR-1014-R2",
+     "author": "Ingrid Y.",
+     "date": "2026-07-16",
+     "rating": 3,
+     "text": "Check-in was easy and the host was responsive."
+    },
+    {
+     "id": "VR-1014-R3",
+     "author": "Sofia Q.",
+     "date": "2026-02-24",
+     "rating": 5,
+     "text": "The hot tub was the highlight of the trip."
+    }
+   ]
+  },
+  {
+   "id": "VR-1015",
+   "title": "Marigold Bend Beach House",
+   "destination": "Outer Banks",
+   "state": "NC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "beach house",
+   "bedrooms": 5,
+   "bathrooms": 3,
+   "sleeps": 10,
+   "nightly_price": 550,
+   "pet_friendly": true,
+   "amenities": [
+    "fireplace",
+    "game room",
+    "hot tub",
+    "kayaks",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "ocean view"
+   ],
+   "rating": 4.4,
+   "review_count": 83,
+   "description": "A 5-bedroom beach house in Outer Banks, NC that sleeps 10. Wake up to ocean views from the main bedroom. Comfortable, well-kept and easy to settle into. Amenities: fireplace, game room, hot tub, kayaks, pool, washer, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1015-R1",
+     "author": "Theo N.",
+     "date": "2026-01-16",
+     "rating": 4,
+     "text": "So peaceful and quiet at night - we could hear the wind in the trees."
+    },
+    {
+     "id": "VR-1015-R2",
+     "author": "Ellis Z.",
+     "date": "2026-08-11",
+     "rating": 5,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1015-R3",
+     "author": "Chloe S.",
+     "date": "2026-02-09",
+     "rating": 5,
+     "text": "Beds were comfortable and the kitchen had everything we needed."
+    }
+   ]
+  },
+  {
+   "id": "VR-1016",
+   "title": "Driftwood Lookout Beach House",
+   "destination": "Outer Banks",
+   "state": "NC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "beach house",
+   "bedrooms": 5,
+   "bathrooms": 3,
+   "sleeps": 10,
+   "nightly_price": 470,
+   "pet_friendly": false,
+   "amenities": [
+    "kitchen",
+    "pool",
+    "wifi"
+   ],
+   "tags": [
+    "beachfront",
+    "ocean view"
+   ],
+   "rating": 4.6,
+   "review_count": 165,
+   "description": "A 5-bedroom beach house in Outer Banks, NC that sleeps 10. Beachfront - walk straight from the deck onto the sand. Wake up to ocean views from the main bedroom. Thoughtfully furnished with local art. Amenities: pool, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1016-R1",
+     "author": "Amara Z.",
+     "date": "2026-05-20",
+     "rating": 5,
+     "text": "The children had a blast and never wanted to leave."
+    },
+    {
+     "id": "VR-1016-R2",
+     "author": "Ingrid Z.",
+     "date": "2026-01-11",
+     "rating": 5,
+     "text": "Spotless and exactly as pictured."
+    },
+    {
+     "id": "VR-1016-R3",
+     "author": "Amara P.",
+     "date": "2026-03-21",
+     "rating": 5,
+     "text": "We spent every afternoon in the pool."
+    }
+   ]
+  },
+  {
+   "id": "VR-1017",
+   "title": "Cedar Bend Beach House",
+   "destination": "Outer Banks",
+   "state": "NC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "beach house",
+   "bedrooms": 1,
+   "bathrooms": 1,
+   "sleeps": 2,
+   "nightly_price": 255,
+   "pet_friendly": false,
+   "amenities": [
+    "grill",
+    "kitchen",
+    "pool",
+    "washer",
+    "workspace"
+   ],
+   "tags": [
+    "ocean view"
+   ],
+   "rating": 4.2,
+   "review_count": 93,
+   "description": "A 1-bedroom beach house in Outer Banks, NC that sleeps 2. Wake up to ocean views from the main bedroom. Recently refreshed interiors throughout. Amenities: grill, pool, washer, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1017-R1",
+     "author": "Omar A.",
+     "date": "2026-06-01",
+     "rating": 4,
+     "text": "A few dated fixtures but overall a great stay."
+    },
+    {
+     "id": "VR-1017-R2",
+     "author": "Jordan Y.",
+     "date": "2026-06-23",
+     "rating": 3,
+     "text": "The desk setup made working remotely easy."
+    },
+    {
+     "id": "VR-1017-R3",
+     "author": "Dmitri N.",
+     "date": "2026-07-21",
+     "rating": 4,
+     "text": "Great for families with little ones; the host left board games."
+    }
+   ]
+  },
+  {
+   "id": "VR-1018",
+   "title": "Seaglass Nest Condo",
+   "destination": "Outer Banks",
+   "state": "NC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "condo",
+   "bedrooms": 4,
+   "bathrooms": 3,
+   "sleeps": 8,
+   "nightly_price": 340,
+   "pet_friendly": true,
+   "amenities": [
+    "grill",
+    "kitchen",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "ocean view",
+    "walkable"
+   ],
+   "rating": 4.7,
+   "review_count": 33,
+   "description": "A 4-bedroom condo in Outer Banks, NC that sleeps 8. Wake up to ocean views from the main bedroom. Walkable to shops and restaurants in town. Comfortable, well-kept and easy to settle into. Amenities: grill, washer, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1018-R1",
+     "author": "Lucia D.",
+     "date": "2026-05-27",
+     "rating": 5,
+     "text": "The desk setup made working remotely easy."
+    },
+    {
+     "id": "VR-1018-R2",
+     "author": "Amara L.",
+     "date": "2026-01-26",
+     "rating": 5,
+     "text": "Check-in was easy and the host was responsive."
+    },
+    {
+     "id": "VR-1018-R3",
+     "author": "Amara F.",
+     "date": "2026-07-10",
+     "rating": 5,
+     "text": "The children had a blast and never wanted to leave."
+    }
+   ]
+  },
+  {
+   "id": "VR-1019",
+   "title": "Starlight Hollow Cottage",
+   "destination": "Outer Banks",
+   "state": "NC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "cottage",
+   "bedrooms": 3,
+   "bathrooms": 2,
+   "sleeps": 6,
+   "nightly_price": 330,
+   "pet_friendly": true,
+   "amenities": [
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "ocean view"
+   ],
+   "rating": 3.9,
+   "review_count": 144,
+   "description": "A 3-bedroom cottage in Outer Banks, NC that sleeps 6. Wake up to ocean views from the main bedroom. Open-plan living area with plenty of natural light. Amenities: pool, washer, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1019-R1",
+     "author": "Mateo H.",
+     "date": "2026-08-18",
+     "rating": 5,
+     "text": "The desk setup made working remotely easy."
+    },
+    {
+     "id": "VR-1019-R2",
+     "author": "Felix S.",
+     "date": "2026-09-04",
+     "rating": 5,
+     "text": "Great location for exploring the area."
+    },
+    {
+     "id": "VR-1019-R3",
+     "author": "Hannah D.",
+     "date": "2026-06-02",
+     "rating": 4,
+     "text": "A few dated fixtures but overall a great stay."
+    }
+   ]
+  },
+  {
+   "id": "VR-1020",
+   "title": "Sagebrush Hollow Cottage",
+   "destination": "Outer Banks",
+   "state": "NC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "cottage",
+   "bedrooms": 1,
+   "bathrooms": 1,
+   "sleeps": 3,
+   "nightly_price": 270,
+   "pet_friendly": false,
+   "amenities": [
+    "grill",
+    "hot tub",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.6,
+   "review_count": 203,
+   "description": "A 1-bedroom cottage in Outer Banks, NC that sleeps 3. Comfortable, well-kept and easy to settle into. Amenities: grill, hot tub, pool, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1020-R1",
+     "author": "Marcus G.",
+     "date": "2026-09-07",
+     "rating": 5,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1020-R2",
+     "author": "Chloe P.",
+     "date": "2026-07-01",
+     "rating": 5,
+     "text": "Plenty of parking and easy access."
+    },
+    {
+     "id": "VR-1020-R3",
+     "author": "Felix M.",
+     "date": "2026-08-23",
+     "rating": 5,
+     "text": "Beds were comfortable and the kitchen had everything we needed."
+    }
+   ]
+  },
+  {
+   "id": "VR-1021",
+   "title": "Tamarack Hideaway Cottage",
+   "destination": "Outer Banks",
+   "state": "NC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "cottage",
+   "bedrooms": 4,
+   "bathrooms": 4,
+   "sleeps": 9,
+   "nightly_price": 455,
+   "pet_friendly": false,
+   "amenities": [
+    "ev charger",
+    "game room",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "pool",
+    "wifi"
+   ],
+   "tags": [
+    "beachfront"
+   ],
+   "rating": 4.0,
+   "review_count": 198,
+   "description": "A 4-bedroom cottage in Outer Banks, NC that sleeps 9. Beachfront - walk straight from the deck onto the sand. Recently refreshed interiors throughout. Amenities: ev charger, game room, grill, hot tub, pool, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1021-R1",
+     "author": "Chloe E.",
+     "date": "2026-06-07",
+     "rating": 5,
+     "text": "Spotless and exactly as pictured."
+    },
+    {
+     "id": "VR-1021-R2",
+     "author": "Hannah I.",
+     "date": "2026-05-18",
+     "rating": 4,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1021-R3",
+     "author": "Sofia L.",
+     "date": "2026-05-17",
+     "rating": 4,
+     "text": "The hot tub was the highlight of the trip."
+    }
+   ]
+  },
+  {
+   "id": "VR-1022",
+   "title": "Harbor Bend Cottage",
+   "destination": "Outer Banks",
+   "state": "NC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "cottage",
+   "bedrooms": 5,
+   "bathrooms": 4,
+   "sleeps": 10,
+   "nightly_price": 450,
+   "pet_friendly": false,
+   "amenities": [
+    "fireplace",
+    "grill",
+    "kitchen",
+    "wifi"
+   ],
+   "tags": [
+    "beachfront",
+    "ocean view"
+   ],
+   "rating": 4.6,
+   "review_count": 45,
+   "description": "A 5-bedroom cottage in Outer Banks, NC that sleeps 10. Beachfront - walk straight from the deck onto the sand. Wake up to ocean views from the main bedroom. Open-plan living area with plenty of natural light. Amenities: fireplace, grill, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1022-R1",
+     "author": "Hannah D.",
+     "date": "2026-02-24",
+     "rating": 5,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1022-R2",
+     "author": "Marcus U.",
+     "date": "2026-03-06",
+     "rating": 5,
+     "text": "Our kids loved it - plenty of space for them to play."
+    },
+    {
+     "id": "VR-1022-R3",
+     "author": "Marcus T.",
+     "date": "2026-03-13",
+     "rating": 5,
+     "text": "Evenings by the fireplace were the best part."
+    }
+   ]
+  },
+  {
+   "id": "VR-1023",
+   "title": "Larkspur Nest Condo",
+   "destination": "Outer Banks",
+   "state": "NC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "condo",
+   "bedrooms": 4,
+   "bathrooms": 4,
+   "sleeps": 8,
+   "nightly_price": 400,
+   "pet_friendly": true,
+   "amenities": [
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "ocean view"
+   ],
+   "rating": 4.8,
+   "review_count": 60,
+   "description": "A 4-bedroom condo in Outer Banks, NC that sleeps 8. Wake up to ocean views from the main bedroom. Recently refreshed interiors throughout. Amenities: pool, washer, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1023-R1",
+     "author": "Lucia U.",
+     "date": "2026-09-24",
+     "rating": 5,
+     "text": "A tranquil, quiet escape from city life."
+    },
+    {
+     "id": "VR-1023-R2",
+     "author": "Mateo F.",
+     "date": "2026-08-14",
+     "rating": 5,
+     "text": "We spent every afternoon in the pool."
+    },
+    {
+     "id": "VR-1023-R3",
+     "author": "Grace B.",
+     "date": "2026-05-02",
+     "rating": 4,
+     "text": "Great for families with little ones; the host left board games."
+    }
+   ]
+  },
+  {
+   "id": "VR-1024",
+   "title": "Juniper Nest Cottage",
+   "destination": "Outer Banks",
+   "state": "NC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "cottage",
+   "bedrooms": 2,
+   "bathrooms": 2,
+   "sleeps": 4,
+   "nightly_price": 245,
+   "pet_friendly": true,
+   "amenities": [
+    "fireplace",
+    "game room",
+    "grill",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.8,
+   "review_count": 87,
+   "description": "A 2-bedroom cottage in Outer Banks, NC that sleeps 4. Recently refreshed interiors throughout. Amenities: fireplace, game room, grill, pool, washer, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1024-R1",
+     "author": "Hannah Z.",
+     "date": "2026-09-11",
+     "rating": 5,
+     "text": "We spent every afternoon in the pool."
+    },
+    {
+     "id": "VR-1024-R2",
+     "author": "Marcus A.",
+     "date": "2026-05-12",
+     "rating": 5,
+     "text": "Our kids loved it - plenty of space for them to play."
+    },
+    {
+     "id": "VR-1024-R3",
+     "author": "Ellis F.",
+     "date": "2026-04-10",
+     "rating": 5,
+     "text": "Beds were comfortable and the kitchen had everything we needed."
+    }
+   ]
+  },
+  {
+   "id": "VR-1025",
+   "title": "Sandpiper Nest Cottage",
+   "destination": "Gulf Shores",
+   "state": "AL",
+   "scenes": [
+    "beach"
+   ],
+   "type": "cottage",
+   "bedrooms": 3,
+   "bathrooms": 2,
+   "sleeps": 8,
+   "nightly_price": 235,
+   "pet_friendly": false,
+   "amenities": [
+    "game room",
+    "grill",
+    "kayaks",
+    "kitchen",
+    "pool",
+    "wifi"
+   ],
+   "tags": [
+    "ocean view"
+   ],
+   "rating": 4.5,
+   "review_count": 86,
+   "description": "A 3-bedroom cottage in Gulf Shores, AL that sleeps 8. Wake up to ocean views from the main bedroom. Recently refreshed interiors throughout. Amenities: game room, grill, kayaks, pool, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1025-R1",
+     "author": "Ravi J.",
+     "date": "2026-02-21",
+     "rating": 5,
+     "text": "A tranquil, quiet escape from city life."
+    },
+    {
+     "id": "VR-1025-R2",
+     "author": "Dmitri P.",
+     "date": "2026-03-01",
+     "rating": 5,
+     "text": "Our kids loved it - plenty of space for them to play."
+    },
+    {
+     "id": "VR-1025-R3",
+     "author": "Felix A.",
+     "date": "2026-07-12",
+     "rating": 5,
+     "text": "We spent every afternoon in the pool."
+    }
+   ]
+  },
+  {
+   "id": "VR-1026",
+   "title": "Marigold Landing Cottage",
+   "destination": "Gulf Shores",
+   "state": "AL",
+   "scenes": [
+    "beach"
+   ],
+   "type": "cottage",
+   "bedrooms": 8,
+   "bathrooms": 7,
+   "sleeps": 16,
+   "nightly_price": 500,
+   "pet_friendly": true,
+   "amenities": [
+    "grill",
+    "hot tub",
+    "kitchen",
+    "pool",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [],
+   "rating": 4.2,
+   "review_count": 97,
+   "description": "A 8-bedroom cottage in Gulf Shores, AL that sleeps 16. Recently refreshed interiors throughout. Amenities: grill, hot tub, pool, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1026-R1",
+     "author": "Grace A.",
+     "date": "2026-04-13",
+     "rating": 3,
+     "text": "Perfect for a romantic getaway - we celebrated our anniversary here."
+    },
+    {
+     "id": "VR-1026-R2",
+     "author": "Ravi N.",
+     "date": "2026-08-05",
+     "rating": 5,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1026-R3",
+     "author": "Marcus H.",
+     "date": "2026-06-26",
+     "rating": 3,
+     "text": "Great for families with little ones; the host left board games."
+    }
+   ]
+  },
+  {
+   "id": "VR-1027",
+   "title": "Sagebrush Hearth Beach House",
+   "destination": "Gulf Shores",
+   "state": "AL",
+   "scenes": [
+    "beach"
+   ],
+   "type": "beach house",
+   "bedrooms": 3,
+   "bathrooms": 3,
+   "sleeps": 6,
+   "nightly_price": 255,
+   "pet_friendly": false,
+   "amenities": [
+    "ev charger",
+    "fireplace",
+    "grill",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "beachfront"
+   ],
+   "rating": 4.5,
+   "review_count": 51,
+   "description": "A 3-bedroom beach house in Gulf Shores, AL that sleeps 6. Beachfront - walk straight from the deck onto the sand. Recently refreshed interiors throughout. Amenities: ev charger, fireplace, grill, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1027-R1",
+     "author": "Nadia K.",
+     "date": "2026-05-28",
+     "rating": 4,
+     "text": "Check-in was easy and the host was responsive."
+    },
+    {
+     "id": "VR-1027-R2",
+     "author": "Hannah U.",
+     "date": "2026-03-20",
+     "rating": 5,
+     "text": "Our kids loved it - plenty of space for them to play."
+    },
+    {
+     "id": "VR-1027-R3",
+     "author": "Marcus L.",
+     "date": "2026-05-08",
+     "rating": 5,
+     "text": "Evenings by the fireplace were the best part."
+    }
+   ]
+  },
+  {
+   "id": "VR-1028",
+   "title": "Pinecone Landing Cottage",
+   "destination": "Gulf Shores",
+   "state": "AL",
+   "scenes": [
+    "beach"
+   ],
+   "type": "cottage",
+   "bedrooms": 2,
+   "bathrooms": 1,
+   "sleeps": 6,
+   "nightly_price": 225,
+   "pet_friendly": true,
+   "amenities": [
+    "fireplace",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 3.9,
+   "review_count": 62,
+   "description": "A 2-bedroom cottage in Gulf Shores, AL that sleeps 6. Open-plan living area with plenty of natural light. Amenities: fireplace, pool, washer, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1028-R1",
+     "author": "Theo B.",
+     "date": "2026-04-22",
+     "rating": 3,
+     "text": "We spent every afternoon in the pool."
+    },
+    {
+     "id": "VR-1028-R2",
+     "author": "Marcus H.",
+     "date": "2026-03-08",
+     "rating": 4,
+     "text": "Perfect for a romantic getaway - we celebrated our anniversary here."
+    },
+    {
+     "id": "VR-1028-R3",
+     "author": "Marcus J.",
+     "date": "2026-08-07",
+     "rating": 4,
+     "text": "The children had a blast and never wanted to leave."
+    }
+   ]
+  },
+  {
+   "id": "VR-1029",
+   "title": "Tamarack Landing Cottage",
+   "destination": "Gulf Shores",
+   "state": "AL",
+   "scenes": [
+    "beach"
+   ],
+   "type": "cottage",
+   "bedrooms": 2,
+   "bathrooms": 1,
+   "sleeps": 5,
+   "nightly_price": 155,
+   "pet_friendly": false,
+   "amenities": [
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "ocean view"
+   ],
+   "rating": 4.0,
+   "review_count": 48,
+   "description": "A 2-bedroom cottage in Gulf Shores, AL that sleeps 5. Wake up to ocean views from the main bedroom. Thoughtfully furnished with local art. Amenities: washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1029-R1",
+     "author": "Dmitri G.",
+     "date": "2026-07-27",
+     "rating": 4,
+     "text": "Secluded and private; we barely saw another car all weekend."
+    },
+    {
+     "id": "VR-1029-R2",
+     "author": "Grace H.",
+     "date": "2026-08-18",
+     "rating": 4,
+     "text": "The photos don't do the view justice."
+    },
+    {
+     "id": "VR-1029-R3",
+     "author": "Hannah T.",
+     "date": "2026-05-20",
+     "rating": 5,
+     "text": "Great for families with little ones; the host left board games."
+    }
+   ]
+  },
+  {
+   "id": "VR-1030",
+   "title": "Mesquite Cove Condo",
+   "destination": "Gulf Shores",
+   "state": "AL",
+   "scenes": [
+    "beach"
+   ],
+   "type": "condo",
+   "bedrooms": 4,
+   "bathrooms": 3,
+   "sleeps": 9,
+   "nightly_price": 300,
+   "pet_friendly": true,
+   "amenities": [
+    "fireplace",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "ocean view"
+   ],
+   "rating": 4.4,
+   "review_count": 64,
+   "description": "A 4-bedroom condo in Gulf Shores, AL that sleeps 9. Wake up to ocean views from the main bedroom. Recently refreshed interiors throughout. Amenities: fireplace, grill, hot tub, washer, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1030-R1",
+     "author": "Theo L.",
+     "date": "2026-01-26",
+     "rating": 4,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1030-R2",
+     "author": "Theo N.",
+     "date": "2026-04-02",
+     "rating": 4,
+     "text": "Check-in was easy and the host was responsive."
+    },
+    {
+     "id": "VR-1030-R3",
+     "author": "Hannah A.",
+     "date": "2026-05-17",
+     "rating": 4,
+     "text": "Beds were comfortable and the kitchen had everything we needed."
+    }
+   ]
+  },
+  {
+   "id": "VR-1031",
+   "title": "Lantern Point Cottage",
+   "destination": "Gulf Shores",
+   "state": "AL",
+   "scenes": [
+    "beach"
+   ],
+   "type": "cottage",
+   "bedrooms": 3,
+   "bathrooms": 2,
+   "sleeps": 6,
+   "nightly_price": 190,
+   "pet_friendly": true,
+   "amenities": [
+    "game room",
+    "kayaks",
+    "kitchen",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "walkable"
+   ],
+   "rating": 4.4,
+   "review_count": 168,
+   "description": "A 3-bedroom cottage in Gulf Shores, AL that sleeps 6. Walkable to shops and restaurants in town. Open-plan living area with plenty of natural light. Amenities: game room, kayaks, washer, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1031-R1",
+     "author": "Ingrid D.",
+     "date": "2026-07-20",
+     "rating": 4,
+     "text": "Lively area - expect some street noise on weekends."
+    },
+    {
+     "id": "VR-1031-R2",
+     "author": "Omar C.",
+     "date": "2026-07-04",
+     "rating": 4,
+     "text": "The desk setup made working remotely easy."
+    },
+    {
+     "id": "VR-1031-R3",
+     "author": "Lucia O.",
+     "date": "2026-07-03",
+     "rating": 5,
+     "text": "Our kids loved it - plenty of space for them to play."
+    }
+   ]
+  },
+  {
+   "id": "VR-1032",
+   "title": "Larkspur Hearth Cottage",
+   "destination": "Gulf Shores",
+   "state": "AL",
+   "scenes": [
+    "beach"
+   ],
+   "type": "cottage",
+   "bedrooms": 5,
+   "bathrooms": 4,
+   "sleeps": 11,
+   "nightly_price": 315,
+   "pet_friendly": true,
+   "amenities": [
+    "fireplace",
+    "kayaks",
+    "kitchen",
+    "pool",
+    "sauna",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "ocean view"
+   ],
+   "rating": 5.0,
+   "review_count": 7,
+   "description": "A 5-bedroom cottage in Gulf Shores, AL that sleeps 11. Wake up to ocean views from the main bedroom. Open-plan living area with plenty of natural light. Amenities: fireplace, kayaks, pool, sauna, washer, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1032-R1",
+     "author": "Lucia O.",
+     "date": "2026-04-27",
+     "rating": 5,
+     "text": "Plenty of parking and easy access."
+    },
+    {
+     "id": "VR-1032-R2",
+     "author": "Avery A.",
+     "date": "2026-09-02",
+     "rating": 5,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1032-R3",
+     "author": "Sofia M.",
+     "date": "2026-03-09",
+     "rating": 5,
+     "text": "We spent every afternoon in the pool."
+    }
+   ]
+  },
+  {
+   "id": "VR-1033",
+   "title": "Juniper Landing Beach House",
+   "destination": "Gulf Shores",
+   "state": "AL",
+   "scenes": [
+    "beach"
+   ],
+   "type": "beach house",
+   "bedrooms": 5,
+   "bathrooms": 5,
+   "sleeps": 10,
+   "nightly_price": 380,
+   "pet_friendly": false,
+   "amenities": [
+    "ev charger",
+    "grill",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "ocean view"
+   ],
+   "rating": 4.8,
+   "review_count": 225,
+   "description": "A 5-bedroom beach house in Gulf Shores, AL that sleeps 10. Wake up to ocean views from the main bedroom. Recently refreshed interiors throughout. Amenities: ev charger, grill, pool, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1033-R1",
+     "author": "Ingrid X.",
+     "date": "2026-08-14",
+     "rating": 4,
+     "text": "The children had a blast and never wanted to leave."
+    },
+    {
+     "id": "VR-1033-R2",
+     "author": "Sofia B.",
+     "date": "2026-06-26",
+     "rating": 5,
+     "text": "We spent every afternoon in the pool."
+    },
+    {
+     "id": "VR-1033-R3",
+     "author": "Marcus Y.",
+     "date": "2026-01-25",
+     "rating": 5,
+     "text": "Check-in was easy and the host was responsive."
+    }
+   ]
+  },
+  {
+   "id": "VR-1034",
+   "title": "Sagebrush Hideaway Cottage",
+   "destination": "Gulf Shores",
+   "state": "AL",
+   "scenes": [
+    "beach"
+   ],
+   "type": "cottage",
+   "bedrooms": 5,
+   "bathrooms": 4,
+   "sleeps": 11,
+   "nightly_price": 315,
+   "pet_friendly": true,
+   "amenities": [
+    "ev charger",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.3,
+   "review_count": 138,
+   "description": "A 5-bedroom cottage in Gulf Shores, AL that sleeps 11. Thoughtfully furnished with local art. Amenities: ev charger, washer, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1034-R1",
+     "author": "Mateo B.",
+     "date": "2026-02-22",
+     "rating": 3,
+     "text": "Check-in was easy and the host was responsive."
+    },
+    {
+     "id": "VR-1034-R2",
+     "author": "Ellis L.",
+     "date": "2026-07-16",
+     "rating": 5,
+     "text": "Great location for exploring the area."
+    },
+    {
+     "id": "VR-1034-R3",
+     "author": "Mateo H.",
+     "date": "2026-01-05",
+     "rating": 3,
+     "text": "A tranquil, quiet escape from city life."
+    }
+   ]
+  },
+  {
+   "id": "VR-1035",
+   "title": "Bluebird Hideaway Cottage",
+   "destination": "Gulf Shores",
+   "state": "AL",
+   "scenes": [
+    "beach"
+   ],
+   "type": "cottage",
+   "bedrooms": 3,
+   "bathrooms": 2,
+   "sleeps": 6,
+   "nightly_price": 365,
+   "pet_friendly": false,
+   "amenities": [
+    "game room",
+    "kitchen",
+    "pool",
+    "washer"
+   ],
+   "tags": [
+    "beachfront"
+   ],
+   "rating": 4.3,
+   "review_count": 80,
+   "description": "A 3-bedroom cottage in Gulf Shores, AL that sleeps 6. Beachfront - walk straight from the deck onto the sand. Recently refreshed interiors throughout. Amenities: game room, pool, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1035-R1",
+     "author": "Nadia H.",
+     "date": "2026-07-02",
+     "rating": 4,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1035-R2",
+     "author": "Ravi W.",
+     "date": "2026-06-03",
+     "rating": 4,
+     "text": "The children had a blast and never wanted to leave."
+    },
+    {
+     "id": "VR-1035-R3",
+     "author": "Kenji R.",
+     "date": "2026-04-04",
+     "rating": 4,
+     "text": "We spent every afternoon in the pool."
+    }
+   ]
+  },
+  {
+   "id": "VR-1036",
+   "title": "Saltwind Point Cottage",
+   "destination": "Gulf Shores",
+   "state": "AL",
+   "scenes": [
+    "beach"
+   ],
+   "type": "cottage",
+   "bedrooms": 3,
+   "bathrooms": 3,
+   "sleeps": 6,
+   "nightly_price": 235,
+   "pet_friendly": false,
+   "amenities": [
+    "kitchen",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "beachfront",
+    "ocean view",
+    "walkable"
+   ],
+   "rating": 4.7,
+   "review_count": 226,
+   "description": "A 3-bedroom cottage in Gulf Shores, AL that sleeps 6. Beachfront - walk straight from the deck onto the sand. Wake up to ocean views from the main bedroom. Walkable to shops and restaurants in town. Recently refreshed interiors throughout. Amenities: washer, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1036-R1",
+     "author": "Theo M.",
+     "date": "2026-06-20",
+     "rating": 5,
+     "text": "Great location for exploring the area."
+    },
+    {
+     "id": "VR-1036-R2",
+     "author": "Dmitri G.",
+     "date": "2026-02-17",
+     "rating": 4,
+     "text": "The desk setup made working remotely easy."
+    },
+    {
+     "id": "VR-1036-R3",
+     "author": "Theo F.",
+     "date": "2026-01-20",
+     "rating": 5,
+     "text": "Spotless and exactly as pictured."
+    }
+   ]
+  },
+  {
+   "id": "VR-1037",
+   "title": "Larkspur Grove Chalet",
+   "destination": "Gatlinburg",
+   "state": "TN",
+   "scenes": [
+    "mountain"
+   ],
+   "type": "chalet",
+   "bedrooms": 4,
+   "bathrooms": 4,
+   "sleeps": 10,
+   "nightly_price": 285,
+   "pet_friendly": false,
+   "amenities": [
+    "grill",
+    "hot tub",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.6,
+   "review_count": 205,
+   "description": "A 4-bedroom chalet in Gatlinburg, TN that sleeps 10. Recently refreshed interiors throughout. Amenities: grill, hot tub, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1037-R1",
+     "author": "Hannah C.",
+     "date": "2026-01-14",
+     "rating": 5,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1037-R2",
+     "author": "Theo V.",
+     "date": "2026-09-02",
+     "rating": 5,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1037-R3",
+     "author": "Ingrid S.",
+     "date": "2026-09-02",
+     "rating": 4,
+     "text": "Check-in was easy and the host was responsive."
+    }
+   ]
+  },
+  {
+   "id": "VR-1038",
+   "title": "Mesquite Bend Lodge",
+   "destination": "Gatlinburg",
+   "state": "TN",
+   "scenes": [
+    "mountain"
+   ],
+   "type": "lodge",
+   "bedrooms": 2,
+   "bathrooms": 2,
+   "sleeps": 6,
+   "nightly_price": 190,
+   "pet_friendly": false,
+   "amenities": [
+    "fireplace",
+    "hot tub",
+    "kitchen",
+    "wifi"
+   ],
+   "tags": [
+    "mountain view"
+   ],
+   "rating": 4.4,
+   "review_count": 124,
+   "description": "A 2-bedroom lodge in Gatlinburg, TN that sleeps 6. Big windows frame the mountain views. Recently refreshed interiors throughout. Amenities: fireplace, hot tub, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1038-R1",
+     "author": "Marcus M.",
+     "date": "2026-03-04",
+     "rating": 3,
+     "text": "So peaceful and quiet at night - we could hear the wind in the trees."
+    },
+    {
+     "id": "VR-1038-R2",
+     "author": "Mateo A.",
+     "date": "2026-02-03",
+     "rating": 5,
+     "text": "Great for families with little ones; the host left board games."
+    },
+    {
+     "id": "VR-1038-R3",
+     "author": "Ingrid N.",
+     "date": "2026-04-19",
+     "rating": 4,
+     "text": "The hot tub was the highlight of the trip."
+    }
+   ]
+  },
+  {
+   "id": "VR-1039",
+   "title": "Harbor Haven Chalet",
+   "destination": "Gatlinburg",
+   "state": "TN",
+   "scenes": [
+    "mountain"
+   ],
+   "type": "chalet",
+   "bedrooms": 3,
+   "bathrooms": 2,
+   "sleeps": 7,
+   "nightly_price": 210,
+   "pet_friendly": true,
+   "amenities": [
+    "fireplace",
+    "grill",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.1,
+   "review_count": 79,
+   "description": "A 3-bedroom chalet in Gatlinburg, TN that sleeps 7. Comfortable, well-kept and easy to settle into. Amenities: fireplace, grill, washer, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1039-R1",
+     "author": "Kenji K.",
+     "date": "2026-01-06",
+     "rating": 4,
+     "text": "Evenings by the fireplace were the best part."
+    },
+    {
+     "id": "VR-1039-R2",
+     "author": "Grace V.",
+     "date": "2026-04-12",
+     "rating": 4,
+     "text": "The photos don't do the view justice."
+    },
+    {
+     "id": "VR-1039-R3",
+     "author": "Amara Z.",
+     "date": "2026-08-05",
+     "rating": 4,
+     "text": "Great location for exploring the area."
+    }
+   ]
+  },
+  {
+   "id": "VR-1040",
+   "title": "Cedar Cove Cabin",
+   "destination": "Gatlinburg",
+   "state": "TN",
+   "scenes": [
+    "mountain"
+   ],
+   "type": "cabin",
+   "bedrooms": 4,
+   "bathrooms": 3,
+   "sleeps": 9,
+   "nightly_price": 280,
+   "pet_friendly": true,
+   "amenities": [
+    "game room",
+    "grill",
+    "kitchen",
+    "pool",
+    "sauna",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "mountain view",
+    "walkable"
+   ],
+   "rating": 4.3,
+   "review_count": 38,
+   "description": "A 4-bedroom cabin in Gatlinburg, TN that sleeps 9. Big windows frame the mountain views. Walkable to shops and restaurants in town. Comfortable, well-kept and easy to settle into. Amenities: game room, grill, pool, sauna, washer, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1040-R1",
+     "author": "Nadia M.",
+     "date": "2026-05-20",
+     "rating": 5,
+     "text": "The game room kept everyone entertained."
+    },
+    {
+     "id": "VR-1040-R2",
+     "author": "Felix T.",
+     "date": "2026-05-10",
+     "rating": 3,
+     "text": "Lively area - expect some street noise on weekends."
+    },
+    {
+     "id": "VR-1040-R3",
+     "author": "Sofia K.",
+     "date": "2026-07-08",
+     "rating": 3,
+     "text": "We spent our honeymoon here and it was magical."
+    }
+   ]
+  },
+  {
+   "id": "VR-1041",
+   "title": "Driftwood Perch Cabin",
+   "destination": "Gatlinburg",
+   "state": "TN",
+   "scenes": [
+    "mountain"
+   ],
+   "type": "cabin",
+   "bedrooms": 1,
+   "bathrooms": 1,
+   "sleeps": 2,
+   "nightly_price": 150,
+   "pet_friendly": true,
+   "amenities": [
+    "ev charger",
+    "fireplace",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.1,
+   "review_count": 183,
+   "description": "A 1-bedroom cabin in Gatlinburg, TN that sleeps 2. Thoughtfully furnished with local art. Amenities: ev charger, fireplace, grill, hot tub, washer, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1041-R1",
+     "author": "Kenji E.",
+     "date": "2026-08-03",
+     "rating": 4,
+     "text": "Great location for exploring the area."
+    },
+    {
+     "id": "VR-1041-R2",
+     "author": "Jordan R.",
+     "date": "2026-08-03",
+     "rating": 5,
+     "text": "So peaceful and quiet at night - we could hear the wind in the trees."
+    },
+    {
+     "id": "VR-1041-R3",
+     "author": "Lucia S.",
+     "date": "2026-07-09",
+     "rating": 4,
+     "text": "Evenings by the fireplace were the best part."
+    }
+   ]
+  },
+  {
+   "id": "VR-1042",
+   "title": "Mesquite Hollow Lodge",
+   "destination": "Gatlinburg",
+   "state": "TN",
+   "scenes": [
+    "mountain"
+   ],
+   "type": "lodge",
+   "bedrooms": 2,
+   "bathrooms": 1,
+   "sleeps": 4,
+   "nightly_price": 210,
+   "pet_friendly": true,
+   "amenities": [
+    "fireplace",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "sauna",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [],
+   "rating": 4.9,
+   "review_count": 115,
+   "description": "A 2-bedroom lodge in Gatlinburg, TN that sleeps 4. Open-plan living area with plenty of natural light. Amenities: fireplace, grill, hot tub, sauna, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1042-R1",
+     "author": "Priya R.",
+     "date": "2026-01-11",
+     "rating": 5,
+     "text": "Great for families with little ones; the host left board games."
+    },
+    {
+     "id": "VR-1042-R2",
+     "author": "Ingrid E.",
+     "date": "2026-03-11",
+     "rating": 5,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1042-R3",
+     "author": "Theo I.",
+     "date": "2026-09-24",
+     "rating": 5,
+     "text": "A tranquil, quiet escape from city life."
+    }
+   ]
+  },
+  {
+   "id": "VR-1043",
+   "title": "Copper Bend Cabin",
+   "destination": "Gatlinburg",
+   "state": "TN",
+   "scenes": [
+    "mountain"
+   ],
+   "type": "cabin",
+   "bedrooms": 1,
+   "bathrooms": 1,
+   "sleeps": 2,
+   "nightly_price": 205,
+   "pet_friendly": false,
+   "amenities": [
+    "fireplace",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "mountain view"
+   ],
+   "rating": 4.5,
+   "review_count": 187,
+   "description": "A 1-bedroom cabin in Gatlinburg, TN that sleeps 2. Big windows frame the mountain views. Comfortable, well-kept and easy to settle into. Amenities: fireplace, grill, hot tub, pool, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1043-R1",
+     "author": "Marcus U.",
+     "date": "2026-05-24",
+     "rating": 5,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1043-R2",
+     "author": "Grace O.",
+     "date": "2026-06-17",
+     "rating": 5,
+     "text": "A few dated fixtures but overall a great stay."
+    },
+    {
+     "id": "VR-1043-R3",
+     "author": "Lucia O.",
+     "date": "2026-01-04",
+     "rating": 5,
+     "text": "Plenty of parking and easy access."
+    }
+   ]
+  },
+  {
+   "id": "VR-1044",
+   "title": "Ember Hearth Cabin",
+   "destination": "Gatlinburg",
+   "state": "TN",
+   "scenes": [
+    "mountain"
+   ],
+   "type": "cabin",
+   "bedrooms": 3,
+   "bathrooms": 2,
+   "sleeps": 8,
+   "nightly_price": 240,
+   "pet_friendly": false,
+   "amenities": [
+    "ev charger",
+    "grill",
+    "kitchen",
+    "sauna",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.4,
+   "review_count": 27,
+   "description": "A 3-bedroom cabin in Gatlinburg, TN that sleeps 8. Recently refreshed interiors throughout. Amenities: ev charger, grill, sauna, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1044-R1",
+     "author": "Dmitri Q.",
+     "date": "2026-06-08",
+     "rating": 3,
+     "text": "A few dated fixtures but overall a great stay."
+    },
+    {
+     "id": "VR-1044-R2",
+     "author": "Kenji A.",
+     "date": "2026-02-01",
+     "rating": 4,
+     "text": "Spotless and exactly as pictured."
+    },
+    {
+     "id": "VR-1044-R3",
+     "author": "Lucia M.",
+     "date": "2026-06-16",
+     "rating": 5,
+     "text": "The photos don't do the view justice."
+    }
+   ]
+  },
+  {
+   "id": "VR-1045",
+   "title": "Bramble Cove Cabin",
+   "destination": "Gatlinburg",
+   "state": "TN",
+   "scenes": [
+    "mountain"
+   ],
+   "type": "cabin",
+   "bedrooms": 1,
+   "bathrooms": 1,
+   "sleeps": 3,
+   "nightly_price": 230,
+   "pet_friendly": true,
+   "amenities": [
+    "fireplace",
+    "game room",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "pool",
+    "wifi"
+   ],
+   "tags": [
+    "mountain view"
+   ],
+   "rating": 4.4,
+   "review_count": 25,
+   "description": "A 1-bedroom cabin in Gatlinburg, TN that sleeps 3. Big windows frame the mountain views. Comfortable, well-kept and easy to settle into. Amenities: fireplace, game room, grill, hot tub, pool, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1045-R1",
+     "author": "Avery R.",
+     "date": "2026-01-25",
+     "rating": 4,
+     "text": "Evenings by the fireplace were the best part."
+    },
+    {
+     "id": "VR-1045-R2",
+     "author": "Omar H.",
+     "date": "2026-03-18",
+     "rating": 4,
+     "text": "Cozy and romantic; ideal for a couple's escape."
+    },
+    {
+     "id": "VR-1045-R3",
+     "author": "Marcus Q.",
+     "date": "2026-02-16",
+     "rating": 4,
+     "text": "A tranquil, quiet escape from city life."
+    }
+   ]
+  },
+  {
+   "id": "VR-1046",
+   "title": "Willow Nest Lodge",
+   "destination": "Gatlinburg",
+   "state": "TN",
+   "scenes": [
+    "mountain"
+   ],
+   "type": "lodge",
+   "bedrooms": 2,
+   "bathrooms": 1,
+   "sleeps": 4,
+   "nightly_price": 175,
+   "pet_friendly": false,
+   "amenities": [
+    "fireplace",
+    "game room",
+    "kitchen",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [],
+   "rating": 4.7,
+   "review_count": 135,
+   "description": "A 2-bedroom lodge in Gatlinburg, TN that sleeps 4. Recently refreshed interiors throughout. Amenities: fireplace, game room, washer, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1046-R1",
+     "author": "Grace N.",
+     "date": "2026-01-18",
+     "rating": 5,
+     "text": "The game room kept everyone entertained."
+    },
+    {
+     "id": "VR-1046-R2",
+     "author": "Priya P.",
+     "date": "2026-09-27",
+     "rating": 5,
+     "text": "Perfect for a romantic getaway - we celebrated our anniversary here."
+    },
+    {
+     "id": "VR-1046-R3",
+     "author": "Omar P.",
+     "date": "2026-05-12",
+     "rating": 5,
+     "text": "Great location for exploring the area."
+    }
+   ]
+  },
+  {
+   "id": "VR-1047",
+   "title": "Pinecone Point Lodge",
+   "destination": "Gatlinburg",
+   "state": "TN",
+   "scenes": [
+    "mountain"
+   ],
+   "type": "lodge",
+   "bedrooms": 4,
+   "bathrooms": 4,
+   "sleeps": 8,
+   "nightly_price": 310,
+   "pet_friendly": true,
+   "amenities": [
+    "fireplace",
+    "hot tub",
+    "kitchen",
+    "sauna",
+    "wifi"
+   ],
+   "tags": [
+    "mountain view"
+   ],
+   "rating": 3.9,
+   "review_count": 176,
+   "description": "A 4-bedroom lodge in Gatlinburg, TN that sleeps 8. Big windows frame the mountain views. Recently refreshed interiors throughout. Amenities: fireplace, hot tub, sauna, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1047-R1",
+     "author": "Marcus M.",
+     "date": "2026-07-16",
+     "rating": 4,
+     "text": "A tranquil, quiet escape from city life."
+    },
+    {
+     "id": "VR-1047-R2",
+     "author": "Lucia Y.",
+     "date": "2026-09-17",
+     "rating": 4,
+     "text": "The children had a blast and never wanted to leave."
+    },
+    {
+     "id": "VR-1047-R3",
+     "author": "Mateo L.",
+     "date": "2026-01-22",
+     "rating": 4,
+     "text": "The hot tub was the highlight of the trip."
+    }
+   ]
+  },
+  {
+   "id": "VR-1048",
+   "title": "Sagebrush Perch Cabin",
+   "destination": "Gatlinburg",
+   "state": "TN",
+   "scenes": [
+    "mountain"
+   ],
+   "type": "cabin",
+   "bedrooms": 4,
+   "bathrooms": 4,
+   "sleeps": 8,
+   "nightly_price": 300,
+   "pet_friendly": false,
+   "amenities": [
+    "fireplace",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "sauna",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "mountain view"
+   ],
+   "rating": 4.0,
+   "review_count": 142,
+   "description": "A 4-bedroom cabin in Gatlinburg, TN that sleeps 8. Big windows frame the mountain views. Recently refreshed interiors throughout. Amenities: fireplace, grill, hot tub, sauna, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1048-R1",
+     "author": "Hannah K.",
+     "date": "2026-08-27",
+     "rating": 4,
+     "text": "Secluded and private; we barely saw another car all weekend."
+    },
+    {
+     "id": "VR-1048-R2",
+     "author": "Lucia F.",
+     "date": "2026-05-21",
+     "rating": 4,
+     "text": "Our kids loved it - plenty of space for them to play."
+    },
+    {
+     "id": "VR-1048-R3",
+     "author": "Chloe O.",
+     "date": "2026-09-25",
+     "rating": 5,
+     "text": "Cozy and romantic; ideal for a couple's escape."
+    }
+   ]
+  },
+  {
+   "id": "VR-1049",
+   "title": "Mesquite Landing Villa",
+   "destination": "Scottsdale",
+   "state": "AZ",
+   "scenes": [
+    "desert"
+   ],
+   "type": "villa",
+   "bedrooms": 2,
+   "bathrooms": 2,
+   "sleeps": 4,
+   "nightly_price": 200,
+   "pet_friendly": false,
+   "amenities": [
+    "grill",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "walkable"
+   ],
+   "rating": 4.6,
+   "review_count": 124,
+   "description": "A 2-bedroom villa in Scottsdale, AZ that sleeps 4. Walkable to shops and restaurants in town. Comfortable, well-kept and easy to settle into. Amenities: grill, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1049-R1",
+     "author": "Jordan N.",
+     "date": "2026-06-06",
+     "rating": 5,
+     "text": "Spotless and exactly as pictured."
+    },
+    {
+     "id": "VR-1049-R2",
+     "author": "Hannah A.",
+     "date": "2026-04-25",
+     "rating": 4,
+     "text": "The photos don't do the view justice."
+    },
+    {
+     "id": "VR-1049-R3",
+     "author": "Marcus R.",
+     "date": "2026-03-09",
+     "rating": 5,
+     "text": "A tranquil, quiet escape from city life."
+    }
+   ]
+  },
+  {
+   "id": "VR-1050",
+   "title": "Juniper Haven Modern Home",
+   "destination": "Scottsdale",
+   "state": "AZ",
+   "scenes": [
+    "desert"
+   ],
+   "type": "modern home",
+   "bedrooms": 5,
+   "bathrooms": 4,
+   "sleeps": 10,
+   "nightly_price": 465,
+   "pet_friendly": true,
+   "amenities": [
+    "ev charger",
+    "game room",
+    "hot tub",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [],
+   "rating": 4.1,
+   "review_count": 237,
+   "description": "A 5-bedroom modern home in Scottsdale, AZ that sleeps 10. Comfortable, well-kept and easy to settle into. Amenities: ev charger, game room, hot tub, pool, washer, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1050-R1",
+     "author": "Felix C.",
+     "date": "2026-08-20",
+     "rating": 4,
+     "text": "Beds were comfortable and the kitchen had everything we needed."
+    },
+    {
+     "id": "VR-1050-R2",
+     "author": "Sofia R.",
+     "date": "2026-09-17",
+     "rating": 5,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1050-R3",
+     "author": "Lucia P.",
+     "date": "2026-06-13",
+     "rating": 4,
+     "text": "The hot tub was the highlight of the trip."
+    }
+   ]
+  },
+  {
+   "id": "VR-1051",
+   "title": "Sagebrush Bend Casita",
+   "destination": "Scottsdale",
+   "state": "AZ",
+   "scenes": [
+    "desert"
+   ],
+   "type": "casita",
+   "bedrooms": 3,
+   "bathrooms": 3,
+   "sleeps": 8,
+   "nightly_price": 240,
+   "pet_friendly": false,
+   "amenities": [
+    "grill",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.9,
+   "review_count": 75,
+   "description": "A 3-bedroom casita in Scottsdale, AZ that sleeps 8. Comfortable, well-kept and easy to settle into. Amenities: grill, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1051-R1",
+     "author": "Omar P.",
+     "date": "2026-07-02",
+     "rating": 5,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1051-R2",
+     "author": "Jordan E.",
+     "date": "2026-06-10",
+     "rating": 4,
+     "text": "The photos don't do the view justice."
+    },
+    {
+     "id": "VR-1051-R3",
+     "author": "Omar F.",
+     "date": "2026-09-02",
+     "rating": 5,
+     "text": "A tranquil, quiet escape from city life."
+    }
+   ]
+  },
+  {
+   "id": "VR-1052",
+   "title": "Tamarack Bend Modern Home",
+   "destination": "Scottsdale",
+   "state": "AZ",
+   "scenes": [
+    "desert"
+   ],
+   "type": "modern home",
+   "bedrooms": 4,
+   "bathrooms": 3,
+   "sleeps": 8,
+   "nightly_price": 315,
+   "pet_friendly": true,
+   "amenities": [
+    "grill",
+    "hot tub",
+    "kitchen",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "walkable"
+   ],
+   "rating": 4.2,
+   "review_count": 90,
+   "description": "A 4-bedroom modern home in Scottsdale, AZ that sleeps 8. Walkable to shops and restaurants in town. Comfortable, well-kept and easy to settle into. Amenities: grill, hot tub, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1052-R1",
+     "author": "Theo T.",
+     "date": "2026-09-15",
+     "rating": 4,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1052-R2",
+     "author": "Nadia O.",
+     "date": "2026-05-06",
+     "rating": 4,
+     "text": "Lively area - expect some street noise on weekends."
+    },
+    {
+     "id": "VR-1052-R3",
+     "author": "Nadia M.",
+     "date": "2026-01-15",
+     "rating": 3,
+     "text": "The children had a blast and never wanted to leave."
+    }
+   ]
+  },
+  {
+   "id": "VR-1053",
+   "title": "Harbor Landing Villa",
+   "destination": "Scottsdale",
+   "state": "AZ",
+   "scenes": [
+    "desert"
+   ],
+   "type": "villa",
+   "bedrooms": 5,
+   "bathrooms": 5,
+   "sleeps": 10,
+   "nightly_price": 355,
+   "pet_friendly": true,
+   "amenities": [
+    "ev charger",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [],
+   "rating": 4.6,
+   "review_count": 221,
+   "description": "A 5-bedroom villa in Scottsdale, AZ that sleeps 10. Open-plan living area with plenty of natural light. Amenities: ev charger, grill, hot tub, washer, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1053-R1",
+     "author": "Theo Z.",
+     "date": "2026-06-22",
+     "rating": 5,
+     "text": "The desk setup made working remotely easy."
+    },
+    {
+     "id": "VR-1053-R2",
+     "author": "Nadia V.",
+     "date": "2026-09-08",
+     "rating": 5,
+     "text": "Secluded and private; we barely saw another car all weekend."
+    },
+    {
+     "id": "VR-1053-R3",
+     "author": "Ellis S.",
+     "date": "2026-03-27",
+     "rating": 4,
+     "text": "Plenty of parking and easy access."
+    }
+   ]
+  },
+  {
+   "id": "VR-1054",
+   "title": "Lantern Perch Modern Home",
+   "destination": "Scottsdale",
+   "state": "AZ",
+   "scenes": [
+    "desert"
+   ],
+   "type": "modern home",
+   "bedrooms": 2,
+   "bathrooms": 2,
+   "sleeps": 4,
+   "nightly_price": 255,
+   "pet_friendly": true,
+   "amenities": [
+    "game room",
+    "grill",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "walkable"
+   ],
+   "rating": 4.4,
+   "review_count": 136,
+   "description": "A 2-bedroom modern home in Scottsdale, AZ that sleeps 4. Walkable to shops and restaurants in town. Open-plan living area with plenty of natural light. Amenities: game room, grill, pool, washer, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1054-R1",
+     "author": "Ravi J.",
+     "date": "2026-04-20",
+     "rating": 3,
+     "text": "Cozy and romantic; ideal for a couple's escape."
+    },
+    {
+     "id": "VR-1054-R2",
+     "author": "Omar O.",
+     "date": "2026-06-28",
+     "rating": 4,
+     "text": "The game room kept everyone entertained."
+    },
+    {
+     "id": "VR-1054-R3",
+     "author": "Priya Z.",
+     "date": "2026-02-04",
+     "rating": 3,
+     "text": "Great for families with little ones; the host left board games."
+    }
+   ]
+  },
+  {
+   "id": "VR-1055",
+   "title": "Tamarack Grove Modern Home",
+   "destination": "Scottsdale",
+   "state": "AZ",
+   "scenes": [
+    "desert"
+   ],
+   "type": "modern home",
+   "bedrooms": 4,
+   "bathrooms": 4,
+   "sleeps": 9,
+   "nightly_price": 415,
+   "pet_friendly": false,
+   "amenities": [
+    "game room",
+    "grill",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.6,
+   "review_count": 196,
+   "description": "A 4-bedroom modern home in Scottsdale, AZ that sleeps 9. Thoughtfully furnished with local art. Amenities: game room, grill, pool, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1055-R1",
+     "author": "Dmitri Q.",
+     "date": "2026-03-16",
+     "rating": 5,
+     "text": "The photos don't do the view justice."
+    },
+    {
+     "id": "VR-1055-R2",
+     "author": "Priya P.",
+     "date": "2026-04-04",
+     "rating": 5,
+     "text": "Our kids loved it - plenty of space for them to play."
+    },
+    {
+     "id": "VR-1055-R3",
+     "author": "Omar Q.",
+     "date": "2026-07-27",
+     "rating": 5,
+     "text": "We spent every afternoon in the pool."
+    }
+   ]
+  },
+  {
+   "id": "VR-1056",
+   "title": "Granite Perch Modern Home",
+   "destination": "Scottsdale",
+   "state": "AZ",
+   "scenes": [
+    "desert"
+   ],
+   "type": "modern home",
+   "bedrooms": 3,
+   "bathrooms": 2,
+   "sleeps": 8,
+   "nightly_price": 405,
+   "pet_friendly": false,
+   "amenities": [
+    "game room",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "mountain view"
+   ],
+   "rating": 4.8,
+   "review_count": 163,
+   "description": "A 3-bedroom modern home in Scottsdale, AZ that sleeps 8. Big windows frame the mountain views. Thoughtfully furnished with local art. Amenities: game room, grill, hot tub, pool, washer, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1056-R1",
+     "author": "Avery L.",
+     "date": "2026-01-16",
+     "rating": 5,
+     "text": "Our kids loved it - plenty of space for them to play."
+    },
+    {
+     "id": "VR-1056-R2",
+     "author": "Chloe I.",
+     "date": "2026-01-04",
+     "rating": 5,
+     "text": "The desk setup made working remotely easy."
+    },
+    {
+     "id": "VR-1056-R3",
+     "author": "Kenji J.",
+     "date": "2026-03-04",
+     "rating": 5,
+     "text": "Beds were comfortable and the kitchen had everything we needed."
+    }
+   ]
+  },
+  {
+   "id": "VR-1057",
+   "title": "Bluebird Retreat Casita",
+   "destination": "Scottsdale",
+   "state": "AZ",
+   "scenes": [
+    "desert"
+   ],
+   "type": "casita",
+   "bedrooms": 5,
+   "bathrooms": 5,
+   "sleeps": 11,
+   "nightly_price": 485,
+   "pet_friendly": false,
+   "amenities": [
+    "grill",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "walkable"
+   ],
+   "rating": 4.2,
+   "review_count": 82,
+   "description": "A 5-bedroom casita in Scottsdale, AZ that sleeps 11. Walkable to shops and restaurants in town. Recently refreshed interiors throughout. Amenities: grill, pool, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1057-R1",
+     "author": "Theo S.",
+     "date": "2026-05-06",
+     "rating": 3,
+     "text": "We spent every afternoon in the pool."
+    },
+    {
+     "id": "VR-1057-R2",
+     "author": "Felix A.",
+     "date": "2026-07-17",
+     "rating": 4,
+     "text": "Our kids loved it - plenty of space for them to play."
+    },
+    {
+     "id": "VR-1057-R3",
+     "author": "Hannah L.",
+     "date": "2026-05-06",
+     "rating": 3,
+     "text": "Lively area - expect some street noise on weekends."
+    }
+   ]
+  },
+  {
+   "id": "VR-1058",
+   "title": "Ember Lookout Casita",
+   "destination": "Scottsdale",
+   "state": "AZ",
+   "scenes": [
+    "desert"
+   ],
+   "type": "casita",
+   "bedrooms": 6,
+   "bathrooms": 5,
+   "sleeps": 14,
+   "nightly_price": 440,
+   "pet_friendly": true,
+   "amenities": [
+    "game room",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.1,
+   "review_count": 163,
+   "description": "A 6-bedroom casita in Scottsdale, AZ that sleeps 14. Thoughtfully furnished with local art. Amenities: game room, pool, washer, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1058-R1",
+     "author": "Dmitri Z.",
+     "date": "2026-07-03",
+     "rating": 4,
+     "text": "We spent every afternoon in the pool."
+    },
+    {
+     "id": "VR-1058-R2",
+     "author": "Ellis D.",
+     "date": "2026-03-08",
+     "rating": 3,
+     "text": "Great for families with little ones; the host left board games."
+    },
+    {
+     "id": "VR-1058-R3",
+     "author": "Grace X.",
+     "date": "2026-06-18",
+     "rating": 4,
+     "text": "So peaceful and quiet at night - we could hear the wind in the trees."
+    }
+   ]
+  },
+  {
+   "id": "VR-1059",
+   "title": "Seaglass Lookout Modern Home",
+   "destination": "Scottsdale",
+   "state": "AZ",
+   "scenes": [
+    "desert"
+   ],
+   "type": "modern home",
+   "bedrooms": 2,
+   "bathrooms": 2,
+   "sleeps": 5,
+   "nightly_price": 260,
+   "pet_friendly": false,
+   "amenities": [
+    "ev charger",
+    "game room",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "mountain view"
+   ],
+   "rating": 4.0,
+   "review_count": 71,
+   "description": "A 2-bedroom modern home in Scottsdale, AZ that sleeps 5. Big windows frame the mountain views. Recently refreshed interiors throughout. Amenities: ev charger, game room, grill, hot tub, washer, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1059-R1",
+     "author": "Ellis P.",
+     "date": "2026-05-26",
+     "rating": 5,
+     "text": "Great location for exploring the area."
+    },
+    {
+     "id": "VR-1059-R2",
+     "author": "Felix S.",
+     "date": "2026-06-15",
+     "rating": 5,
+     "text": "So peaceful and quiet at night - we could hear the wind in the trees."
+    },
+    {
+     "id": "VR-1059-R3",
+     "author": "Felix Q.",
+     "date": "2026-02-25",
+     "rating": 5,
+     "text": "The hot tub was the highlight of the trip."
+    }
+   ]
+  },
+  {
+   "id": "VR-1060",
+   "title": "Sagebrush Retreat Modern Home",
+   "destination": "Scottsdale",
+   "state": "AZ",
+   "scenes": [
+    "desert"
+   ],
+   "type": "modern home",
+   "bedrooms": 6,
+   "bathrooms": 6,
+   "sleeps": 13,
+   "nightly_price": 510,
+   "pet_friendly": true,
+   "amenities": [
+    "grill",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "walkable"
+   ],
+   "rating": 4.0,
+   "review_count": 185,
+   "description": "A 6-bedroom modern home in Scottsdale, AZ that sleeps 13. Walkable to shops and restaurants in town. Comfortable, well-kept and easy to settle into. Amenities: grill, pool, washer, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1060-R1",
+     "author": "Amara M.",
+     "date": "2026-05-09",
+     "rating": 3,
+     "text": "The desk setup made working remotely easy."
+    },
+    {
+     "id": "VR-1060-R2",
+     "author": "Ravi P.",
+     "date": "2026-09-07",
+     "rating": 5,
+     "text": "Secluded and private; we barely saw another car all weekend."
+    },
+    {
+     "id": "VR-1060-R3",
+     "author": "Felix I.",
+     "date": "2026-04-24",
+     "rating": 3,
+     "text": "Beds were comfortable and the kitchen had everything we needed."
+    }
+   ]
+  },
+  {
+   "id": "VR-1061",
+   "title": "Ember Perch Condo",
+   "destination": "Breckenridge",
+   "state": "CO",
+   "scenes": [
+    "mountain",
+    "ski"
+   ],
+   "type": "condo",
+   "bedrooms": 4,
+   "bathrooms": 4,
+   "sleeps": 9,
+   "nightly_price": 520,
+   "pet_friendly": false,
+   "amenities": [
+    "fireplace",
+    "game room",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "sauna",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "ski-in/ski-out",
+    "walkable"
+   ],
+   "rating": 4.6,
+   "review_count": 228,
+   "description": "A 4-bedroom condo in Breckenridge, CO that sleeps 9. Ski-in/ski-out access to the nearest lift. Walkable to shops and restaurants in town. Open-plan living area with plenty of natural light. Amenities: fireplace, game room, grill, hot tub, sauna, washer, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1061-R1",
+     "author": "Felix E.",
+     "date": "2026-01-21",
+     "rating": 5,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1061-R2",
+     "author": "Lucia I.",
+     "date": "2026-05-07",
+     "rating": 5,
+     "text": "Great for families with little ones; the host left board games."
+    },
+    {
+     "id": "VR-1061-R3",
+     "author": "Theo E.",
+     "date": "2026-04-02",
+     "rating": 5,
+     "text": "The hot tub was the highlight of the trip."
+    }
+   ]
+  },
+  {
+   "id": "VR-1062",
+   "title": "Lantern Hideaway Cabin",
+   "destination": "Breckenridge",
+   "state": "CO",
+   "scenes": [
+    "mountain",
+    "ski"
+   ],
+   "type": "cabin",
+   "bedrooms": 5,
+   "bathrooms": 5,
+   "sleeps": 10,
+   "nightly_price": 650,
+   "pet_friendly": false,
+   "amenities": [
+    "grill",
+    "hot tub",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "mountain view"
+   ],
+   "rating": 4.2,
+   "review_count": 138,
+   "description": "A 5-bedroom cabin in Breckenridge, CO that sleeps 10. Big windows frame the mountain views. Open-plan living area with plenty of natural light. Amenities: grill, hot tub, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1062-R1",
+     "author": "Kenji I.",
+     "date": "2026-02-21",
+     "rating": 4,
+     "text": "Cozy and romantic; ideal for a couple's escape."
+    },
+    {
+     "id": "VR-1062-R2",
+     "author": "Ingrid V.",
+     "date": "2026-03-24",
+     "rating": 5,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1062-R3",
+     "author": "Marcus G.",
+     "date": "2026-06-19",
+     "rating": 5,
+     "text": "Great location for exploring the area."
+    }
+   ]
+  },
+  {
+   "id": "VR-1063",
+   "title": "Copper Cove Condo",
+   "destination": "Breckenridge",
+   "state": "CO",
+   "scenes": [
+    "mountain",
+    "ski"
+   ],
+   "type": "condo",
+   "bedrooms": 5,
+   "bathrooms": 4,
+   "sleeps": 12,
+   "nightly_price": 600,
+   "pet_friendly": true,
+   "amenities": [
+    "ev charger",
+    "fireplace",
+    "game room",
+    "kitchen",
+    "sauna",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "ski-in/ski-out"
+   ],
+   "rating": 4.2,
+   "review_count": 125,
+   "description": "A 5-bedroom condo in Breckenridge, CO that sleeps 12. Ski-in/ski-out access to the nearest lift. Open-plan living area with plenty of natural light. Amenities: ev charger, fireplace, game room, sauna, washer, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1063-R1",
+     "author": "Amara A.",
+     "date": "2026-06-27",
+     "rating": 4,
+     "text": "Great for families with little ones; the host left board games."
+    },
+    {
+     "id": "VR-1063-R2",
+     "author": "Nadia E.",
+     "date": "2026-06-19",
+     "rating": 4,
+     "text": "The game room kept everyone entertained."
+    },
+    {
+     "id": "VR-1063-R3",
+     "author": "Dmitri W.",
+     "date": "2026-03-02",
+     "rating": 4,
+     "text": "Secluded and private; we barely saw another car all weekend."
+    }
+   ]
+  },
+  {
+   "id": "VR-1064",
+   "title": "Tamarack Point Condo",
+   "destination": "Breckenridge",
+   "state": "CO",
+   "scenes": [
+    "mountain",
+    "ski"
+   ],
+   "type": "condo",
+   "bedrooms": 5,
+   "bathrooms": 4,
+   "sleeps": 12,
+   "nightly_price": 510,
+   "pet_friendly": false,
+   "amenities": [
+    "grill",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "mountain view"
+   ],
+   "rating": 4.8,
+   "review_count": 28,
+   "description": "A 5-bedroom condo in Breckenridge, CO that sleeps 12. Big windows frame the mountain views. Open-plan living area with plenty of natural light. Amenities: grill, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1064-R1",
+     "author": "Jordan U.",
+     "date": "2026-05-06",
+     "rating": 5,
+     "text": "Spotless and exactly as pictured."
+    },
+    {
+     "id": "VR-1064-R2",
+     "author": "Priya O.",
+     "date": "2026-07-28",
+     "rating": 4,
+     "text": "Beds were comfortable and the kitchen had everything we needed."
+    },
+    {
+     "id": "VR-1064-R3",
+     "author": "Grace Q.",
+     "date": "2026-04-09",
+     "rating": 5,
+     "text": "Great location for exploring the area."
+    }
+   ]
+  },
+  {
+   "id": "VR-1065",
+   "title": "Saltwind Hideaway Lodge",
+   "destination": "Breckenridge",
+   "state": "CO",
+   "scenes": [
+    "mountain",
+    "ski"
+   ],
+   "type": "lodge",
+   "bedrooms": 1,
+   "bathrooms": 1,
+   "sleeps": 2,
+   "nightly_price": 295,
+   "pet_friendly": true,
+   "amenities": [
+    "game room",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.2,
+   "review_count": 186,
+   "description": "A 1-bedroom lodge in Breckenridge, CO that sleeps 2. Open-plan living area with plenty of natural light. Amenities: game room, grill, hot tub, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1065-R1",
+     "author": "Lucia A.",
+     "date": "2026-03-28",
+     "rating": 5,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1065-R2",
+     "author": "Felix E.",
+     "date": "2026-01-06",
+     "rating": 5,
+     "text": "Our kids loved it - plenty of space for them to play."
+    },
+    {
+     "id": "VR-1065-R3",
+     "author": "Dmitri C.",
+     "date": "2026-07-02",
+     "rating": 4,
+     "text": "The game room kept everyone entertained."
+    }
+   ]
+  },
+  {
+   "id": "VR-1066",
+   "title": "Seaglass Retreat Chalet",
+   "destination": "Breckenridge",
+   "state": "CO",
+   "scenes": [
+    "mountain",
+    "ski"
+   ],
+   "type": "chalet",
+   "bedrooms": 3,
+   "bathrooms": 2,
+   "sleeps": 8,
+   "nightly_price": 420,
+   "pet_friendly": true,
+   "amenities": [
+    "fireplace",
+    "hot tub",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "mountain view",
+    "walkable"
+   ],
+   "rating": 4.0,
+   "review_count": 51,
+   "description": "A 3-bedroom chalet in Breckenridge, CO that sleeps 8. Big windows frame the mountain views. Walkable to shops and restaurants in town. Open-plan living area with plenty of natural light. Amenities: fireplace, hot tub, washer, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1066-R1",
+     "author": "Felix N.",
+     "date": "2026-04-05",
+     "rating": 4,
+     "text": "Lively area - expect some street noise on weekends."
+    },
+    {
+     "id": "VR-1066-R2",
+     "author": "Ellis A.",
+     "date": "2026-05-25",
+     "rating": 3,
+     "text": "Beds were comfortable and the kitchen had everything we needed."
+    },
+    {
+     "id": "VR-1066-R3",
+     "author": "Priya E.",
+     "date": "2026-07-22",
+     "rating": 3,
+     "text": "Evenings by the fireplace were the best part."
+    }
+   ]
+  },
+  {
+   "id": "VR-1067",
+   "title": "Tamarack Cove Lodge",
+   "destination": "Breckenridge",
+   "state": "CO",
+   "scenes": [
+    "mountain",
+    "ski"
+   ],
+   "type": "lodge",
+   "bedrooms": 8,
+   "bathrooms": 7,
+   "sleeps": 16,
+   "nightly_price": 765,
+   "pet_friendly": true,
+   "amenities": [
+    "grill",
+    "hot tub",
+    "kitchen",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "mountain view"
+   ],
+   "rating": 4.1,
+   "review_count": 122,
+   "description": "A 8-bedroom lodge in Breckenridge, CO that sleeps 16. Big windows frame the mountain views. Comfortable, well-kept and easy to settle into. Amenities: grill, hot tub, washer, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1067-R1",
+     "author": "Felix J.",
+     "date": "2026-02-22",
+     "rating": 3,
+     "text": "The desk setup made working remotely easy."
+    },
+    {
+     "id": "VR-1067-R2",
+     "author": "Nadia G.",
+     "date": "2026-09-16",
+     "rating": 4,
+     "text": "Plenty of parking and easy access."
+    },
+    {
+     "id": "VR-1067-R3",
+     "author": "Ellis U.",
+     "date": "2026-07-13",
+     "rating": 3,
+     "text": "A few dated fixtures but overall a great stay."
+    }
+   ]
+  },
+  {
+   "id": "VR-1068",
+   "title": "Cedar Point Condo",
+   "destination": "Breckenridge",
+   "state": "CO",
+   "scenes": [
+    "mountain",
+    "ski"
+   ],
+   "type": "condo",
+   "bedrooms": 3,
+   "bathrooms": 2,
+   "sleeps": 7,
+   "nightly_price": 440,
+   "pet_friendly": false,
+   "amenities": [
+    "ev charger",
+    "fireplace",
+    "game room",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "mountain view",
+    "ski-in/ski-out"
+   ],
+   "rating": 4.7,
+   "review_count": 34,
+   "description": "A 3-bedroom condo in Breckenridge, CO that sleeps 7. Big windows frame the mountain views. Ski-in/ski-out access to the nearest lift. Open-plan living area with plenty of natural light. Amenities: ev charger, fireplace, game room, grill, hot tub, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1068-R1",
+     "author": "Jordan B.",
+     "date": "2026-05-05",
+     "rating": 5,
+     "text": "Beds were comfortable and the kitchen had everything we needed."
+    },
+    {
+     "id": "VR-1068-R2",
+     "author": "Nadia X.",
+     "date": "2026-04-15",
+     "rating": 5,
+     "text": "The children had a blast and never wanted to leave."
+    },
+    {
+     "id": "VR-1068-R3",
+     "author": "Priya O.",
+     "date": "2026-09-06",
+     "rating": 5,
+     "text": "Evenings by the fireplace were the best part."
+    }
+   ]
+  },
+  {
+   "id": "VR-1069",
+   "title": "Mesquite Nest Lodge",
+   "destination": "Breckenridge",
+   "state": "CO",
+   "scenes": [
+    "mountain",
+    "ski"
+   ],
+   "type": "lodge",
+   "bedrooms": 1,
+   "bathrooms": 1,
+   "sleeps": 3,
+   "nightly_price": 280,
+   "pet_friendly": false,
+   "amenities": [
+    "game room",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "pool",
+    "sauna",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "mountain view"
+   ],
+   "rating": 4.7,
+   "review_count": 57,
+   "description": "A 1-bedroom lodge in Breckenridge, CO that sleeps 3. Big windows frame the mountain views. Open-plan living area with plenty of natural light. Amenities: game room, grill, hot tub, pool, sauna, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1069-R1",
+     "author": "Chloe Y.",
+     "date": "2026-02-02",
+     "rating": 5,
+     "text": "Great location for exploring the area."
+    },
+    {
+     "id": "VR-1069-R2",
+     "author": "Jordan W.",
+     "date": "2026-08-12",
+     "rating": 5,
+     "text": "Cozy and romantic; ideal for a couple's escape."
+    },
+    {
+     "id": "VR-1069-R3",
+     "author": "Dmitri P.",
+     "date": "2026-05-20",
+     "rating": 5,
+     "text": "We spent every afternoon in the pool."
+    }
+   ]
+  },
+  {
+   "id": "VR-1070",
+   "title": "Foxglove Perch Chalet",
+   "destination": "Breckenridge",
+   "state": "CO",
+   "scenes": [
+    "mountain",
+    "ski"
+   ],
+   "type": "chalet",
+   "bedrooms": 7,
+   "bathrooms": 6,
+   "sleeps": 14,
+   "nightly_price": 785,
+   "pet_friendly": false,
+   "amenities": [
+    "fireplace",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "mountain view",
+    "ski-in/ski-out"
+   ],
+   "rating": 4.1,
+   "review_count": 53,
+   "description": "A 7-bedroom chalet in Breckenridge, CO that sleeps 14. Big windows frame the mountain views. Ski-in/ski-out access to the nearest lift. Comfortable, well-kept and easy to settle into. Amenities: fireplace, grill, hot tub, washer, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1070-R1",
+     "author": "Grace H.",
+     "date": "2026-06-21",
+     "rating": 4,
+     "text": "Great for families with little ones; the host left board games."
+    },
+    {
+     "id": "VR-1070-R2",
+     "author": "Kenji O.",
+     "date": "2026-05-09",
+     "rating": 4,
+     "text": "Great location for exploring the area."
+    },
+    {
+     "id": "VR-1070-R3",
+     "author": "Amara I.",
+     "date": "2026-04-08",
+     "rating": 4,
+     "text": "Evenings by the fireplace were the best part."
+    }
+   ]
+  },
+  {
+   "id": "VR-1071",
+   "title": "Foxglove Nest Cabin",
+   "destination": "Breckenridge",
+   "state": "CO",
+   "scenes": [
+    "mountain",
+    "ski"
+   ],
+   "type": "cabin",
+   "bedrooms": 3,
+   "bathrooms": 2,
+   "sleeps": 6,
+   "nightly_price": 440,
+   "pet_friendly": false,
+   "amenities": [
+    "fireplace",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "mountain view"
+   ],
+   "rating": 4.9,
+   "review_count": 229,
+   "description": "A 3-bedroom cabin in Breckenridge, CO that sleeps 6. Big windows frame the mountain views. Open-plan living area with plenty of natural light. Amenities: fireplace, grill, hot tub, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1071-R1",
+     "author": "Theo X.",
+     "date": "2026-05-23",
+     "rating": 5,
+     "text": "Our kids loved it - plenty of space for them to play."
+    },
+    {
+     "id": "VR-1071-R2",
+     "author": "Dmitri U.",
+     "date": "2026-02-05",
+     "rating": 5,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1071-R3",
+     "author": "Avery R.",
+     "date": "2026-08-22",
+     "rating": 4,
+     "text": "Spotless and exactly as pictured."
+    }
+   ]
+  },
+  {
+   "id": "VR-1072",
+   "title": "Sagebrush Point Condo",
+   "destination": "Breckenridge",
+   "state": "CO",
+   "scenes": [
+    "mountain",
+    "ski"
+   ],
+   "type": "condo",
+   "bedrooms": 5,
+   "bathrooms": 4,
+   "sleeps": 10,
+   "nightly_price": 590,
+   "pet_friendly": false,
+   "amenities": [
+    "ev charger",
+    "fireplace",
+    "game room",
+    "grill",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "mountain view"
+   ],
+   "rating": 4.1,
+   "review_count": 88,
+   "description": "A 5-bedroom condo in Breckenridge, CO that sleeps 10. Big windows frame the mountain views. Thoughtfully furnished with local art. Amenities: ev charger, fireplace, game room, grill, pool, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1072-R1",
+     "author": "Kenji C.",
+     "date": "2026-03-05",
+     "rating": 4,
+     "text": "A few dated fixtures but overall a great stay."
+    },
+    {
+     "id": "VR-1072-R2",
+     "author": "Avery D.",
+     "date": "2026-02-27",
+     "rating": 4,
+     "text": "Evenings by the fireplace were the best part."
+    },
+    {
+     "id": "VR-1072-R3",
+     "author": "Ingrid R.",
+     "date": "2026-02-20",
+     "rating": 4,
+     "text": "The children had a blast and never wanted to leave."
+    }
+   ]
+  },
+  {
+   "id": "VR-1073",
+   "title": "Ember Retreat Cottage",
+   "destination": "Cape Cod",
+   "state": "MA",
+   "scenes": [
+    "beach"
+   ],
+   "type": "cottage",
+   "bedrooms": 5,
+   "bathrooms": 4,
+   "sleeps": 10,
+   "nightly_price": 555,
+   "pet_friendly": false,
+   "amenities": [
+    "fireplace",
+    "game room",
+    "hot tub",
+    "kitchen",
+    "pool",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [],
+   "rating": 4.9,
+   "review_count": 80,
+   "description": "A 5-bedroom cottage in Cape Cod, MA that sleeps 10. Open-plan living area with plenty of natural light. Amenities: fireplace, game room, hot tub, pool, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1073-R1",
+     "author": "Mateo N.",
+     "date": "2026-06-13",
+     "rating": 5,
+     "text": "Beds were comfortable and the kitchen had everything we needed."
+    },
+    {
+     "id": "VR-1073-R2",
+     "author": "Lucia Q.",
+     "date": "2026-05-02",
+     "rating": 4,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1073-R3",
+     "author": "Marcus I.",
+     "date": "2026-08-20",
+     "rating": 5,
+     "text": "The game room kept everyone entertained."
+    }
+   ]
+  },
+  {
+   "id": "VR-1074",
+   "title": "Juniper Grove Condo",
+   "destination": "Cape Cod",
+   "state": "MA",
+   "scenes": [
+    "beach"
+   ],
+   "type": "condo",
+   "bedrooms": 4,
+   "bathrooms": 3,
+   "sleeps": 8,
+   "nightly_price": 405,
+   "pet_friendly": true,
+   "amenities": [
+    "fireplace",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [],
+   "rating": 5.0,
+   "review_count": 83,
+   "description": "A 4-bedroom condo in Cape Cod, MA that sleeps 8. Recently refreshed interiors throughout. Amenities: fireplace, grill, hot tub, washer, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1074-R1",
+     "author": "Ingrid H.",
+     "date": "2026-02-27",
+     "rating": 5,
+     "text": "A few dated fixtures but overall a great stay."
+    },
+    {
+     "id": "VR-1074-R2",
+     "author": "Hannah E.",
+     "date": "2026-08-07",
+     "rating": 5,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1074-R3",
+     "author": "Priya V.",
+     "date": "2026-04-09",
+     "rating": 5,
+     "text": "Check-in was easy and the host was responsive."
+    }
+   ]
+  },
+  {
+   "id": "VR-1075",
+   "title": "Tamarack Lookout Condo",
+   "destination": "Cape Cod",
+   "state": "MA",
+   "scenes": [
+    "beach"
+   ],
+   "type": "condo",
+   "bedrooms": 8,
+   "bathrooms": 7,
+   "sleeps": 17,
+   "nightly_price": 635,
+   "pet_friendly": true,
+   "amenities": [
+    "ev charger",
+    "hot tub",
+    "kitchen",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [],
+   "rating": 4.4,
+   "review_count": 162,
+   "description": "A 8-bedroom condo in Cape Cod, MA that sleeps 17. Open-plan living area with plenty of natural light. Amenities: ev charger, hot tub, washer, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1075-R1",
+     "author": "Mateo P.",
+     "date": "2026-09-10",
+     "rating": 5,
+     "text": "The desk setup made working remotely easy."
+    },
+    {
+     "id": "VR-1075-R2",
+     "author": "Felix S.",
+     "date": "2026-05-02",
+     "rating": 3,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1075-R3",
+     "author": "Theo L.",
+     "date": "2026-04-09",
+     "rating": 5,
+     "text": "Plenty of parking and easy access."
+    }
+   ]
+  },
+  {
+   "id": "VR-1076",
+   "title": "Aspen Point Beach House",
+   "destination": "Cape Cod",
+   "state": "MA",
+   "scenes": [
+    "beach"
+   ],
+   "type": "beach house",
+   "bedrooms": 2,
+   "bathrooms": 1,
+   "sleeps": 5,
+   "nightly_price": 270,
+   "pet_friendly": false,
+   "amenities": [
+    "hot tub",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "walkable"
+   ],
+   "rating": 3.9,
+   "review_count": 44,
+   "description": "A 2-bedroom beach house in Cape Cod, MA that sleeps 5. Walkable to shops and restaurants in town. Open-plan living area with plenty of natural light. Amenities: hot tub, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1076-R1",
+     "author": "Hannah O.",
+     "date": "2026-08-24",
+     "rating": 3,
+     "text": "Great for families with little ones; the host left board games."
+    },
+    {
+     "id": "VR-1076-R2",
+     "author": "Jordan L.",
+     "date": "2026-01-24",
+     "rating": 4,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1076-R3",
+     "author": "Ingrid A.",
+     "date": "2026-02-15",
+     "rating": 4,
+     "text": "Perfect for a romantic getaway - we celebrated our anniversary here."
+    }
+   ]
+  },
+  {
+   "id": "VR-1077",
+   "title": "Harbor Grove Condo",
+   "destination": "Cape Cod",
+   "state": "MA",
+   "scenes": [
+    "beach"
+   ],
+   "type": "condo",
+   "bedrooms": 3,
+   "bathrooms": 2,
+   "sleeps": 8,
+   "nightly_price": 385,
+   "pet_friendly": true,
+   "amenities": [
+    "game room",
+    "grill",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "ocean view"
+   ],
+   "rating": 4.1,
+   "review_count": 141,
+   "description": "A 3-bedroom condo in Cape Cod, MA that sleeps 8. Wake up to ocean views from the main bedroom. Recently refreshed interiors throughout. Amenities: game room, grill, pool, washer, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1077-R1",
+     "author": "Lucia X.",
+     "date": "2026-06-15",
+     "rating": 4,
+     "text": "Check-in was easy and the host was responsive."
+    },
+    {
+     "id": "VR-1077-R2",
+     "author": "Grace F.",
+     "date": "2026-02-06",
+     "rating": 3,
+     "text": "The game room kept everyone entertained."
+    },
+    {
+     "id": "VR-1077-R3",
+     "author": "Chloe I.",
+     "date": "2026-04-03",
+     "rating": 4,
+     "text": "Spotless and exactly as pictured."
+    }
+   ]
+  },
+  {
+   "id": "VR-1078",
+   "title": "Harbor Retreat Beach House",
+   "destination": "Cape Cod",
+   "state": "MA",
+   "scenes": [
+    "beach"
+   ],
+   "type": "beach house",
+   "bedrooms": 3,
+   "bathrooms": 2,
+   "sleeps": 6,
+   "nightly_price": 455,
+   "pet_friendly": true,
+   "amenities": [
+    "ev charger",
+    "fireplace",
+    "grill",
+    "kitchen",
+    "pool",
+    "wifi"
+   ],
+   "tags": [
+    "beachfront",
+    "walkable"
+   ],
+   "rating": 4.3,
+   "review_count": 36,
+   "description": "A 3-bedroom beach house in Cape Cod, MA that sleeps 6. Beachfront - walk straight from the deck onto the sand. Walkable to shops and restaurants in town. Thoughtfully furnished with local art. Amenities: ev charger, fireplace, grill, pool, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1078-R1",
+     "author": "Marcus J.",
+     "date": "2026-03-16",
+     "rating": 3,
+     "text": "Evenings by the fireplace were the best part."
+    },
+    {
+     "id": "VR-1078-R2",
+     "author": "Chloe T.",
+     "date": "2026-01-08",
+     "rating": 3,
+     "text": "A few dated fixtures but overall a great stay."
+    },
+    {
+     "id": "VR-1078-R3",
+     "author": "Nadia F.",
+     "date": "2026-06-28",
+     "rating": 4,
+     "text": "Great location for exploring the area."
+    }
+   ]
+  },
+  {
+   "id": "VR-1079",
+   "title": "Larkspur Haven Condo",
+   "destination": "Cape Cod",
+   "state": "MA",
+   "scenes": [
+    "beach"
+   ],
+   "type": "condo",
+   "bedrooms": 2,
+   "bathrooms": 2,
+   "sleeps": 4,
+   "nightly_price": 320,
+   "pet_friendly": false,
+   "amenities": [
+    "game room",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "beachfront"
+   ],
+   "rating": 4.1,
+   "review_count": 10,
+   "description": "A 2-bedroom condo in Cape Cod, MA that sleeps 4. Beachfront - walk straight from the deck onto the sand. Recently refreshed interiors throughout. Amenities: game room, washer, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1079-R1",
+     "author": "Ellis I.",
+     "date": "2026-05-09",
+     "rating": 5,
+     "text": "Secluded and private; we barely saw another car all weekend."
+    },
+    {
+     "id": "VR-1079-R2",
+     "author": "Sofia Q.",
+     "date": "2026-09-26",
+     "rating": 5,
+     "text": "We spent our honeymoon here and it was magical."
+    },
+    {
+     "id": "VR-1079-R3",
+     "author": "Amara F.",
+     "date": "2026-04-02",
+     "rating": 4,
+     "text": "The desk setup made working remotely easy."
+    }
+   ]
+  },
+  {
+   "id": "VR-1080",
+   "title": "Driftwood Haven Cottage",
+   "destination": "Cape Cod",
+   "state": "MA",
+   "scenes": [
+    "beach"
+   ],
+   "type": "cottage",
+   "bedrooms": 5,
+   "bathrooms": 5,
+   "sleeps": 10,
+   "nightly_price": 520,
+   "pet_friendly": false,
+   "amenities": [
+    "game room",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "walkable"
+   ],
+   "rating": 4.7,
+   "review_count": 137,
+   "description": "A 5-bedroom cottage in Cape Cod, MA that sleeps 10. Walkable to shops and restaurants in town. Thoughtfully furnished with local art. Amenities: game room, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1080-R1",
+     "author": "Chloe A.",
+     "date": "2026-05-04",
+     "rating": 4,
+     "text": "Lively area - expect some street noise on weekends."
+    },
+    {
+     "id": "VR-1080-R2",
+     "author": "Hannah L.",
+     "date": "2026-04-20",
+     "rating": 5,
+     "text": "Plenty of parking and easy access."
+    },
+    {
+     "id": "VR-1080-R3",
+     "author": "Amara K.",
+     "date": "2026-07-24",
+     "rating": 5,
+     "text": "The game room kept everyone entertained."
+    }
+   ]
+  },
+  {
+   "id": "VR-1081",
+   "title": "Juniper Hideaway Cottage",
+   "destination": "Cape Cod",
+   "state": "MA",
+   "scenes": [
+    "beach"
+   ],
+   "type": "cottage",
+   "bedrooms": 4,
+   "bathrooms": 4,
+   "sleeps": 10,
+   "nightly_price": 435,
+   "pet_friendly": false,
+   "amenities": [
+    "grill",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "beachfront",
+    "ocean view",
+    "walkable"
+   ],
+   "rating": 4.9,
+   "review_count": 11,
+   "description": "A 4-bedroom cottage in Cape Cod, MA that sleeps 10. Beachfront - walk straight from the deck onto the sand. Wake up to ocean views from the main bedroom. Walkable to shops and restaurants in town. Open-plan living area with plenty of natural light. Amenities: grill, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1081-R1",
+     "author": "Marcus N.",
+     "date": "2026-07-20",
+     "rating": 4,
+     "text": "Great for families with little ones; the host left board games."
+    },
+    {
+     "id": "VR-1081-R2",
+     "author": "Chloe U.",
+     "date": "2026-08-04",
+     "rating": 5,
+     "text": "Beds were comfortable and the kitchen had everything we needed."
+    },
+    {
+     "id": "VR-1081-R3",
+     "author": "Dmitri D.",
+     "date": "2026-09-19",
+     "rating": 5,
+     "text": "Lively area - expect some street noise on weekends."
+    }
+   ]
+  },
+  {
+   "id": "VR-1082",
+   "title": "Pinecone Bend Condo",
+   "destination": "Cape Cod",
+   "state": "MA",
+   "scenes": [
+    "beach"
+   ],
+   "type": "condo",
+   "bedrooms": 2,
+   "bathrooms": 1,
+   "sleeps": 4,
+   "nightly_price": 320,
+   "pet_friendly": true,
+   "amenities": [
+    "game room",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.9,
+   "review_count": 97,
+   "description": "A 2-bedroom condo in Cape Cod, MA that sleeps 4. Open-plan living area with plenty of natural light. Amenities: game room, washer, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1082-R1",
+     "author": "Ravi W.",
+     "date": "2026-04-26",
+     "rating": 4,
+     "text": "The game room kept everyone entertained."
+    },
+    {
+     "id": "VR-1082-R2",
+     "author": "Jordan A.",
+     "date": "2026-03-15",
+     "rating": 4,
+     "text": "Our kids loved it - plenty of space for them to play."
+    },
+    {
+     "id": "VR-1082-R3",
+     "author": "Kenji M.",
+     "date": "2026-09-25",
+     "rating": 5,
+     "text": "Would happily book again."
+    }
+   ]
+  },
+  {
+   "id": "VR-1083",
+   "title": "Foxglove Landing Beach House",
+   "destination": "Cape Cod",
+   "state": "MA",
+   "scenes": [
+    "beach"
+   ],
+   "type": "beach house",
+   "bedrooms": 2,
+   "bathrooms": 1,
+   "sleeps": 4,
+   "nightly_price": 300,
+   "pet_friendly": false,
+   "amenities": [
+    "fireplace",
+    "grill",
+    "kayaks",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.4,
+   "review_count": 143,
+   "description": "A 2-bedroom beach house in Cape Cod, MA that sleeps 4. Thoughtfully furnished with local art. Amenities: fireplace, grill, kayaks, pool, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1083-R1",
+     "author": "Avery U.",
+     "date": "2026-03-03",
+     "rating": 4,
+     "text": "Evenings by the fireplace were the best part."
+    },
+    {
+     "id": "VR-1083-R2",
+     "author": "Avery I.",
+     "date": "2026-04-24",
+     "rating": 4,
+     "text": "Perfect for a romantic getaway - we celebrated our anniversary here."
+    },
+    {
+     "id": "VR-1083-R3",
+     "author": "Nadia A.",
+     "date": "2026-01-11",
+     "rating": 3,
+     "text": "Great for families with little ones; the host left board games."
+    }
+   ]
+  },
+  {
+   "id": "VR-1084",
+   "title": "Lantern Haven Beach House",
+   "destination": "Cape Cod",
+   "state": "MA",
+   "scenes": [
+    "beach"
+   ],
+   "type": "beach house",
+   "bedrooms": 4,
+   "bathrooms": 3,
+   "sleeps": 8,
+   "nightly_price": 445,
+   "pet_friendly": false,
+   "amenities": [
+    "ev charger",
+    "kitchen",
+    "pool",
+    "workspace"
+   ],
+   "tags": [
+    "beachfront"
+   ],
+   "rating": 4.5,
+   "review_count": 11,
+   "description": "A 4-bedroom beach house in Cape Cod, MA that sleeps 8. Beachfront - walk straight from the deck onto the sand. Recently refreshed interiors throughout. Amenities: ev charger, pool, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1084-R1",
+     "author": "Marcus Y.",
+     "date": "2026-04-25",
+     "rating": 5,
+     "text": "A tranquil, quiet escape from city life."
+    },
+    {
+     "id": "VR-1084-R2",
+     "author": "Marcus V.",
+     "date": "2026-07-16",
+     "rating": 4,
+     "text": "We spent every afternoon in the pool."
+    },
+    {
+     "id": "VR-1084-R3",
+     "author": "Hannah A.",
+     "date": "2026-05-08",
+     "rating": 5,
+     "text": "Would happily book again."
+    }
+   ]
+  },
+  {
+   "id": "VR-1085",
+   "title": "Foxglove Point Farmhouse",
+   "destination": "Fredericksburg",
+   "state": "TX",
+   "scenes": [
+    "countryside"
+   ],
+   "type": "farmhouse",
+   "bedrooms": 6,
+   "bathrooms": 3,
+   "sleeps": 12,
+   "nightly_price": 360,
+   "pet_friendly": true,
+   "amenities": [
+    "fireplace",
+    "game room",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.5,
+   "review_count": 115,
+   "description": "A 6-bedroom farmhouse in Fredericksburg, TX that sleeps 12. Thoughtfully furnished with local art. Amenities: fireplace, game room, pool, washer, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1085-R1",
+     "author": "Hannah J.",
+     "date": "2026-06-01",
+     "rating": 5,
+     "text": "A few dated fixtures but overall a great stay."
+    },
+    {
+     "id": "VR-1085-R2",
+     "author": "Kenji J.",
+     "date": "2026-04-16",
+     "rating": 5,
+     "text": "Great for families with little ones; the host left board games."
+    },
+    {
+     "id": "VR-1085-R3",
+     "author": "Marcus X.",
+     "date": "2026-09-07",
+     "rating": 5,
+     "text": "The game room kept everyone entertained."
+    }
+   ]
+  },
+  {
+   "id": "VR-1086",
+   "title": "Larkspur Retreat Guesthouse",
+   "destination": "Fredericksburg",
+   "state": "TX",
+   "scenes": [
+    "countryside"
+   ],
+   "type": "guesthouse",
+   "bedrooms": 6,
+   "bathrooms": 5,
+   "sleeps": 12,
+   "nightly_price": 395,
+   "pet_friendly": false,
+   "amenities": [
+    "grill",
+    "kitchen",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [],
+   "rating": 4.9,
+   "review_count": 160,
+   "description": "A 6-bedroom guesthouse in Fredericksburg, TX that sleeps 12. Comfortable, well-kept and easy to settle into. Amenities: grill, washer, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1086-R1",
+     "author": "Jordan S.",
+     "date": "2026-01-27",
+     "rating": 5,
+     "text": "The desk setup made working remotely easy."
+    },
+    {
+     "id": "VR-1086-R2",
+     "author": "Omar Y.",
+     "date": "2026-09-04",
+     "rating": 5,
+     "text": "A few dated fixtures but overall a great stay."
+    },
+    {
+     "id": "VR-1086-R3",
+     "author": "Grace W.",
+     "date": "2026-03-28",
+     "rating": 5,
+     "text": "Great location for exploring the area."
+    }
+   ]
+  },
+  {
+   "id": "VR-1087",
+   "title": "Marigold Retreat Cottage",
+   "destination": "Fredericksburg",
+   "state": "TX",
+   "scenes": [
+    "countryside"
+   ],
+   "type": "cottage",
+   "bedrooms": 4,
+   "bathrooms": 3,
+   "sleeps": 9,
+   "nightly_price": 290,
+   "pet_friendly": true,
+   "amenities": [
+    "hot tub",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.6,
+   "review_count": 184,
+   "description": "A 4-bedroom cottage in Fredericksburg, TX that sleeps 9. Recently refreshed interiors throughout. Amenities: hot tub, washer, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1087-R1",
+     "author": "Theo O.",
+     "date": "2026-05-04",
+     "rating": 5,
+     "text": "Spotless and exactly as pictured."
+    },
+    {
+     "id": "VR-1087-R2",
+     "author": "Hannah W.",
+     "date": "2026-07-12",
+     "rating": 5,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1087-R3",
+     "author": "Hannah A.",
+     "date": "2026-06-19",
+     "rating": 5,
+     "text": "Our kids loved it - plenty of space for them to play."
+    }
+   ]
+  },
+  {
+   "id": "VR-1088",
+   "title": "Copper Nest Cottage",
+   "destination": "Fredericksburg",
+   "state": "TX",
+   "scenes": [
+    "countryside"
+   ],
+   "type": "cottage",
+   "bedrooms": 6,
+   "bathrooms": 5,
+   "sleeps": 12,
+   "nightly_price": 350,
+   "pet_friendly": false,
+   "amenities": [
+    "kitchen",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [],
+   "rating": 4.0,
+   "review_count": 181,
+   "description": "A 6-bedroom cottage in Fredericksburg, TX that sleeps 12. Recently refreshed interiors throughout. Amenities: washer, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1088-R1",
+     "author": "Avery Q.",
+     "date": "2026-02-11",
+     "rating": 3,
+     "text": "A tranquil, quiet escape from city life."
+    },
+    {
+     "id": "VR-1088-R2",
+     "author": "Avery Y.",
+     "date": "2026-02-13",
+     "rating": 4,
+     "text": "Our kids loved it - plenty of space for them to play."
+    },
+    {
+     "id": "VR-1088-R3",
+     "author": "Kenji T.",
+     "date": "2026-03-12",
+     "rating": 5,
+     "text": "Cozy and romantic; ideal for a couple's escape."
+    }
+   ]
+  },
+  {
+   "id": "VR-1089",
+   "title": "Aspen Cove Farmhouse",
+   "destination": "Fredericksburg",
+   "state": "TX",
+   "scenes": [
+    "countryside"
+   ],
+   "type": "farmhouse",
+   "bedrooms": 6,
+   "bathrooms": 3,
+   "sleeps": 12,
+   "nightly_price": 320,
+   "pet_friendly": false,
+   "amenities": [
+    "kitchen",
+    "sauna",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.5,
+   "review_count": 138,
+   "description": "A 6-bedroom farmhouse in Fredericksburg, TX that sleeps 12. Open-plan living area with plenty of natural light. Amenities: sauna, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1089-R1",
+     "author": "Avery I.",
+     "date": "2026-05-19",
+     "rating": 4,
+     "text": "A tranquil, quiet escape from city life."
+    },
+    {
+     "id": "VR-1089-R2",
+     "author": "Ingrid G.",
+     "date": "2026-09-17",
+     "rating": 5,
+     "text": "Great location for exploring the area."
+    },
+    {
+     "id": "VR-1089-R3",
+     "author": "Ingrid W.",
+     "date": "2026-04-06",
+     "rating": 5,
+     "text": "Beds were comfortable and the kitchen had everything we needed."
+    }
+   ]
+  },
+  {
+   "id": "VR-1090",
+   "title": "Copper Point Cottage",
+   "destination": "Fredericksburg",
+   "state": "TX",
+   "scenes": [
+    "countryside"
+   ],
+   "type": "cottage",
+   "bedrooms": 2,
+   "bathrooms": 1,
+   "sleeps": 5,
+   "nightly_price": 195,
+   "pet_friendly": true,
+   "amenities": [
+    "game room",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "walkable"
+   ],
+   "rating": 4.2,
+   "review_count": 203,
+   "description": "A 2-bedroom cottage in Fredericksburg, TX that sleeps 5. Walkable to shops and restaurants in town. Comfortable, well-kept and easy to settle into. Amenities: game room, pool, washer, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1090-R1",
+     "author": "Felix Z.",
+     "date": "2026-07-03",
+     "rating": 3,
+     "text": "Great for families with little ones; the host left board games."
+    },
+    {
+     "id": "VR-1090-R2",
+     "author": "Nadia W.",
+     "date": "2026-06-26",
+     "rating": 4,
+     "text": "The game room kept everyone entertained."
+    },
+    {
+     "id": "VR-1090-R3",
+     "author": "Nadia Z.",
+     "date": "2026-02-03",
+     "rating": 3,
+     "text": "Beds were comfortable and the kitchen had everything we needed."
+    }
+   ]
+  },
+  {
+   "id": "VR-1091",
+   "title": "Seaglass Ridge Guesthouse",
+   "destination": "Fredericksburg",
+   "state": "TX",
+   "scenes": [
+    "countryside"
+   ],
+   "type": "guesthouse",
+   "bedrooms": 5,
+   "bathrooms": 4,
+   "sleeps": 10,
+   "nightly_price": 280,
+   "pet_friendly": false,
+   "amenities": [
+    "kitchen",
+    "wifi"
+   ],
+   "tags": [
+    "walkable"
+   ],
+   "rating": 4.6,
+   "review_count": 97,
+   "description": "A 5-bedroom guesthouse in Fredericksburg, TX that sleeps 10. Walkable to shops and restaurants in town. Recently refreshed interiors throughout. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1091-R1",
+     "author": "Omar I.",
+     "date": "2026-01-01",
+     "rating": 5,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1091-R2",
+     "author": "Grace F.",
+     "date": "2026-08-10",
+     "rating": 5,
+     "text": "Our kids loved it - plenty of space for them to play."
+    },
+    {
+     "id": "VR-1091-R3",
+     "author": "Marcus J.",
+     "date": "2026-02-23",
+     "rating": 5,
+     "text": "Spotless and exactly as pictured."
+    }
+   ]
+  },
+  {
+   "id": "VR-1092",
+   "title": "Larkspur Point Farmhouse",
+   "destination": "Fredericksburg",
+   "state": "TX",
+   "scenes": [
+    "countryside"
+   ],
+   "type": "farmhouse",
+   "bedrooms": 2,
+   "bathrooms": 2,
+   "sleeps": 4,
+   "nightly_price": 180,
+   "pet_friendly": false,
+   "amenities": [
+    "kitchen",
+    "sauna",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.5,
+   "review_count": 26,
+   "description": "A 2-bedroom farmhouse in Fredericksburg, TX that sleeps 4. Recently refreshed interiors throughout. Amenities: sauna, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1092-R1",
+     "author": "Lucia O.",
+     "date": "2026-02-19",
+     "rating": 5,
+     "text": "Spotless and exactly as pictured."
+    },
+    {
+     "id": "VR-1092-R2",
+     "author": "Avery V.",
+     "date": "2026-07-05",
+     "rating": 5,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1092-R3",
+     "author": "Kenji O.",
+     "date": "2026-04-13",
+     "rating": 5,
+     "text": "Plenty of parking and easy access."
+    }
+   ]
+  },
+  {
+   "id": "VR-1093",
+   "title": "Bramble Grove Cottage",
+   "destination": "Fredericksburg",
+   "state": "TX",
+   "scenes": [
+    "countryside"
+   ],
+   "type": "cottage",
+   "bedrooms": 3,
+   "bathrooms": 2,
+   "sleeps": 6,
+   "nightly_price": 295,
+   "pet_friendly": true,
+   "amenities": [
+    "fireplace",
+    "hot tub",
+    "kitchen",
+    "pool",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [],
+   "rating": 4.5,
+   "review_count": 187,
+   "description": "A 3-bedroom cottage in Fredericksburg, TX that sleeps 6. Recently refreshed interiors throughout. Amenities: fireplace, hot tub, pool, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1093-R1",
+     "author": "Mateo G.",
+     "date": "2026-09-17",
+     "rating": 5,
+     "text": "The photos don't do the view justice."
+    },
+    {
+     "id": "VR-1093-R2",
+     "author": "Marcus E.",
+     "date": "2026-04-22",
+     "rating": 5,
+     "text": "The desk setup made working remotely easy."
+    },
+    {
+     "id": "VR-1093-R3",
+     "author": "Kenji I.",
+     "date": "2026-02-14",
+     "rating": 5,
+     "text": "Plenty of parking and easy access."
+    }
+   ]
+  },
+  {
+   "id": "VR-1094",
+   "title": "Bramble Haven Cottage",
+   "destination": "Fredericksburg",
+   "state": "TX",
+   "scenes": [
+    "countryside"
+   ],
+   "type": "cottage",
+   "bedrooms": 1,
+   "bathrooms": 1,
+   "sleeps": 3,
+   "nightly_price": 125,
+   "pet_friendly": true,
+   "amenities": [
+    "ev charger",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "walkable"
+   ],
+   "rating": 4.6,
+   "review_count": 202,
+   "description": "A 1-bedroom cottage in Fredericksburg, TX that sleeps 3. Walkable to shops and restaurants in town. Comfortable, well-kept and easy to settle into. Amenities: ev charger, washer, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1094-R1",
+     "author": "Mateo C.",
+     "date": "2026-02-21",
+     "rating": 5,
+     "text": "Cozy and romantic; ideal for a couple's escape."
+    },
+    {
+     "id": "VR-1094-R2",
+     "author": "Amara A.",
+     "date": "2026-07-27",
+     "rating": 5,
+     "text": "Great location for exploring the area."
+    },
+    {
+     "id": "VR-1094-R3",
+     "author": "Sofia V.",
+     "date": "2026-01-28",
+     "rating": 5,
+     "text": "Check-in was easy and the host was responsive."
+    }
+   ]
+  },
+  {
+   "id": "VR-1095",
+   "title": "Sandpiper Cove Farmhouse",
+   "destination": "Fredericksburg",
+   "state": "TX",
+   "scenes": [
+    "countryside"
+   ],
+   "type": "farmhouse",
+   "bedrooms": 3,
+   "bathrooms": 2,
+   "sleeps": 8,
+   "nightly_price": 235,
+   "pet_friendly": false,
+   "amenities": [
+    "ev charger",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "walkable"
+   ],
+   "rating": 4.1,
+   "review_count": 49,
+   "description": "A 3-bedroom farmhouse in Fredericksburg, TX that sleeps 8. Walkable to shops and restaurants in town. Thoughtfully furnished with local art. Amenities: ev charger, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1095-R1",
+     "author": "Sofia S.",
+     "date": "2026-01-12",
+     "rating": 3,
+     "text": "Lively area - expect some street noise on weekends."
+    },
+    {
+     "id": "VR-1095-R2",
+     "author": "Felix O.",
+     "date": "2026-03-26",
+     "rating": 3,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1095-R3",
+     "author": "Kenji S.",
+     "date": "2026-04-28",
+     "rating": 3,
+     "text": "Great for families with little ones; the host left board games."
+    }
+   ]
+  },
+  {
+   "id": "VR-1096",
+   "title": "Bluebird Landing Farmhouse",
+   "destination": "Fredericksburg",
+   "state": "TX",
+   "scenes": [
+    "countryside"
+   ],
+   "type": "farmhouse",
+   "bedrooms": 2,
+   "bathrooms": 2,
+   "sleeps": 5,
+   "nightly_price": 155,
+   "pet_friendly": true,
+   "amenities": [
+    "grill",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.7,
+   "review_count": 204,
+   "description": "A 2-bedroom farmhouse in Fredericksburg, TX that sleeps 5. Thoughtfully furnished with local art. Amenities: grill, washer, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1096-R1",
+     "author": "Grace C.",
+     "date": "2026-06-03",
+     "rating": 5,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1096-R2",
+     "author": "Hannah Y.",
+     "date": "2026-06-15",
+     "rating": 5,
+     "text": "A tranquil, quiet escape from city life."
+    },
+    {
+     "id": "VR-1096-R3",
+     "author": "Chloe J.",
+     "date": "2026-08-23",
+     "rating": 5,
+     "text": "Plenty of parking and easy access."
+    }
+   ]
+  },
+  {
+   "id": "VR-1097",
+   "title": "Harbor Hearth Villa",
+   "destination": "Kissimmee",
+   "state": "FL",
+   "scenes": [
+    "theme parks"
+   ],
+   "type": "villa",
+   "bedrooms": 3,
+   "bathrooms": 3,
+   "sleeps": 8,
+   "nightly_price": 310,
+   "pet_friendly": false,
+   "amenities": [
+    "game room",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.0,
+   "review_count": 148,
+   "description": "A 3-bedroom villa in Kissimmee, FL that sleeps 8. Comfortable, well-kept and easy to settle into. Amenities: game room, grill, hot tub, pool, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1097-R1",
+     "author": "Omar H.",
+     "date": "2026-02-11",
+     "rating": 4,
+     "text": "Check-in was easy and the host was responsive."
+    },
+    {
+     "id": "VR-1097-R2",
+     "author": "Amara R.",
+     "date": "2026-05-17",
+     "rating": 4,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1097-R3",
+     "author": "Marcus A.",
+     "date": "2026-09-27",
+     "rating": 4,
+     "text": "Plenty of parking and easy access."
+    }
+   ]
+  },
+  {
+   "id": "VR-1098",
+   "title": "Marigold Ridge Townhome",
+   "destination": "Kissimmee",
+   "state": "FL",
+   "scenes": [
+    "theme parks"
+   ],
+   "type": "townhome",
+   "bedrooms": 3,
+   "bathrooms": 2,
+   "sleeps": 6,
+   "nightly_price": 225,
+   "pet_friendly": true,
+   "amenities": [
+    "kitchen",
+    "pool",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.0,
+   "review_count": 111,
+   "description": "A 3-bedroom townhome in Kissimmee, FL that sleeps 6. Recently refreshed interiors throughout. Amenities: pool, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1098-R1",
+     "author": "Amara S.",
+     "date": "2026-05-15",
+     "rating": 3,
+     "text": "The photos don't do the view justice."
+    },
+    {
+     "id": "VR-1098-R2",
+     "author": "Grace O.",
+     "date": "2026-05-21",
+     "rating": 5,
+     "text": "We spent every afternoon in the pool."
+    },
+    {
+     "id": "VR-1098-R3",
+     "author": "Marcus B.",
+     "date": "2026-05-28",
+     "rating": 4,
+     "text": "Check-in was easy and the host was responsive."
+    }
+   ]
+  },
+  {
+   "id": "VR-1099",
+   "title": "Mesquite Hideaway Townhome",
+   "destination": "Kissimmee",
+   "state": "FL",
+   "scenes": [
+    "theme parks"
+   ],
+   "type": "townhome",
+   "bedrooms": 3,
+   "bathrooms": 3,
+   "sleeps": 8,
+   "nightly_price": 185,
+   "pet_friendly": false,
+   "amenities": [
+    "fireplace",
+    "game room",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.7,
+   "review_count": 32,
+   "description": "A 3-bedroom townhome in Kissimmee, FL that sleeps 8. Thoughtfully furnished with local art. Amenities: fireplace, game room, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1099-R1",
+     "author": "Ellis G.",
+     "date": "2026-07-23",
+     "rating": 4,
+     "text": "The game room kept everyone entertained."
+    },
+    {
+     "id": "VR-1099-R2",
+     "author": "Lucia Z.",
+     "date": "2026-01-12",
+     "rating": 4,
+     "text": "Beds were comfortable and the kitchen had everything we needed."
+    },
+    {
+     "id": "VR-1099-R3",
+     "author": "Kenji V.",
+     "date": "2026-02-24",
+     "rating": 5,
+     "text": "Our kids loved it - plenty of space for them to play."
+    }
+   ]
+  },
+  {
+   "id": "VR-1100",
+   "title": "Saltwind Lookout Condo",
+   "destination": "Kissimmee",
+   "state": "FL",
+   "scenes": [
+    "theme parks"
+   ],
+   "type": "condo",
+   "bedrooms": 5,
+   "bathrooms": 4,
+   "sleeps": 12,
+   "nightly_price": 315,
+   "pet_friendly": false,
+   "amenities": [
+    "grill",
+    "hot tub",
+    "kitchen",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [],
+   "rating": 4.4,
+   "review_count": 87,
+   "description": "A 5-bedroom condo in Kissimmee, FL that sleeps 12. Comfortable, well-kept and easy to settle into. Amenities: grill, hot tub, washer, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1100-R1",
+     "author": "Avery C.",
+     "date": "2026-03-28",
+     "rating": 5,
+     "text": "Great location for exploring the area."
+    },
+    {
+     "id": "VR-1100-R2",
+     "author": "Avery I.",
+     "date": "2026-08-10",
+     "rating": 4,
+     "text": "A few dated fixtures but overall a great stay."
+    },
+    {
+     "id": "VR-1100-R3",
+     "author": "Chloe X.",
+     "date": "2026-06-24",
+     "rating": 4,
+     "text": "The hot tub was the highlight of the trip."
+    }
+   ]
+  },
+  {
+   "id": "VR-1101",
+   "title": "Saltwind Landing Townhome",
+   "destination": "Kissimmee",
+   "state": "FL",
+   "scenes": [
+    "theme parks"
+   ],
+   "type": "townhome",
+   "bedrooms": 2,
+   "bathrooms": 1,
+   "sleeps": 4,
+   "nightly_price": 200,
+   "pet_friendly": true,
+   "amenities": [
+    "game room",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [],
+   "rating": 4.2,
+   "review_count": 213,
+   "description": "A 2-bedroom townhome in Kissimmee, FL that sleeps 4. Thoughtfully furnished with local art. Amenities: game room, grill, hot tub, washer, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1101-R1",
+     "author": "Jordan B.",
+     "date": "2026-07-11",
+     "rating": 5,
+     "text": "A few dated fixtures but overall a great stay."
+    },
+    {
+     "id": "VR-1101-R2",
+     "author": "Omar E.",
+     "date": "2026-08-18",
+     "rating": 5,
+     "text": "The desk setup made working remotely easy."
+    },
+    {
+     "id": "VR-1101-R3",
+     "author": "Ellis P.",
+     "date": "2026-07-23",
+     "rating": 5,
+     "text": "Spotless and exactly as pictured."
+    }
+   ]
+  },
+  {
+   "id": "VR-1102",
+   "title": "Larkspur Hollow Townhome",
+   "destination": "Kissimmee",
+   "state": "FL",
+   "scenes": [
+    "theme parks"
+   ],
+   "type": "townhome",
+   "bedrooms": 5,
+   "bathrooms": 3,
+   "sleeps": 10,
+   "nightly_price": 315,
+   "pet_friendly": false,
+   "amenities": [
+    "grill",
+    "hot tub",
+    "kitchen",
+    "pool",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.7,
+   "review_count": 221,
+   "description": "A 5-bedroom townhome in Kissimmee, FL that sleeps 10. Recently refreshed interiors throughout. Amenities: grill, hot tub, pool, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1102-R1",
+     "author": "Ravi O.",
+     "date": "2026-08-17",
+     "rating": 5,
+     "text": "Cozy and romantic; ideal for a couple's escape."
+    },
+    {
+     "id": "VR-1102-R2",
+     "author": "Priya G.",
+     "date": "2026-03-09",
+     "rating": 5,
+     "text": "Great for families with little ones; the host left board games."
+    },
+    {
+     "id": "VR-1102-R3",
+     "author": "Marcus W.",
+     "date": "2026-05-20",
+     "rating": 5,
+     "text": "Secluded and private; we barely saw another car all weekend."
+    }
+   ]
+  },
+  {
+   "id": "VR-1103",
+   "title": "Marigold Grove Condo",
+   "destination": "Kissimmee",
+   "state": "FL",
+   "scenes": [
+    "theme parks"
+   ],
+   "type": "condo",
+   "bedrooms": 2,
+   "bathrooms": 2,
+   "sleeps": 5,
+   "nightly_price": 210,
+   "pet_friendly": false,
+   "amenities": [
+    "grill",
+    "hot tub",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.9,
+   "review_count": 104,
+   "description": "A 2-bedroom condo in Kissimmee, FL that sleeps 5. Comfortable, well-kept and easy to settle into. Amenities: grill, hot tub, pool, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1103-R1",
+     "author": "Dmitri R.",
+     "date": "2026-02-20",
+     "rating": 5,
+     "text": "Plenty of parking and easy access."
+    },
+    {
+     "id": "VR-1103-R2",
+     "author": "Hannah F.",
+     "date": "2026-01-04",
+     "rating": 5,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1103-R3",
+     "author": "Hannah O.",
+     "date": "2026-01-28",
+     "rating": 5,
+     "text": "Would happily book again."
+    }
+   ]
+  },
+  {
+   "id": "VR-1104",
+   "title": "Copper Perch Condo",
+   "destination": "Kissimmee",
+   "state": "FL",
+   "scenes": [
+    "theme parks"
+   ],
+   "type": "condo",
+   "bedrooms": 8,
+   "bathrooms": 7,
+   "sleeps": 17,
+   "nightly_price": 425,
+   "pet_friendly": false,
+   "amenities": [
+    "game room",
+    "grill",
+    "kitchen",
+    "pool",
+    "washer"
+   ],
+   "tags": [],
+   "rating": 4.8,
+   "review_count": 202,
+   "description": "A 8-bedroom condo in Kissimmee, FL that sleeps 17. Comfortable, well-kept and easy to settle into. Amenities: game room, grill, pool, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1104-R1",
+     "author": "Nadia T.",
+     "date": "2026-06-21",
+     "rating": 5,
+     "text": "So peaceful and quiet at night - we could hear the wind in the trees."
+    },
+    {
+     "id": "VR-1104-R2",
+     "author": "Mateo M.",
+     "date": "2026-09-24",
+     "rating": 5,
+     "text": "The game room kept everyone entertained."
+    },
+    {
+     "id": "VR-1104-R3",
+     "author": "Avery D.",
+     "date": "2026-09-28",
+     "rating": 5,
+     "text": "Our kids loved it - plenty of space for them to play."
+    }
+   ]
+  },
+  {
+   "id": "VR-1105",
+   "title": "Sandpiper Landing Villa",
+   "destination": "Kissimmee",
+   "state": "FL",
+   "scenes": [
+    "theme parks"
+   ],
+   "type": "villa",
+   "bedrooms": 6,
+   "bathrooms": 6,
+   "sleeps": 13,
+   "nightly_price": 430,
+   "pet_friendly": false,
+   "amenities": [
+    "game room",
+    "hot tub",
+    "kitchen",
+    "pool",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [],
+   "rating": 4.4,
+   "review_count": 161,
+   "description": "A 6-bedroom villa in Kissimmee, FL that sleeps 13. Comfortable, well-kept and easy to settle into. Amenities: game room, hot tub, pool, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1105-R1",
+     "author": "Chloe D.",
+     "date": "2026-07-01",
+     "rating": 3,
+     "text": "Beds were comfortable and the kitchen had everything we needed."
+    },
+    {
+     "id": "VR-1105-R2",
+     "author": "Jordan G.",
+     "date": "2026-03-01",
+     "rating": 4,
+     "text": "Plenty of parking and easy access."
+    },
+    {
+     "id": "VR-1105-R3",
+     "author": "Ingrid S.",
+     "date": "2026-08-18",
+     "rating": 4,
+     "text": "We spent every afternoon in the pool."
+    }
+   ]
+  },
+  {
+   "id": "VR-1106",
+   "title": "Bramble Lookout Townhome",
+   "destination": "Kissimmee",
+   "state": "FL",
+   "scenes": [
+    "theme parks"
+   ],
+   "type": "townhome",
+   "bedrooms": 4,
+   "bathrooms": 3,
+   "sleeps": 8,
+   "nightly_price": 310,
+   "pet_friendly": false,
+   "amenities": [
+    "ev charger",
+    "game room",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.0,
+   "review_count": 215,
+   "description": "A 4-bedroom townhome in Kissimmee, FL that sleeps 8. Comfortable, well-kept and easy to settle into. Amenities: ev charger, game room, pool, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1106-R1",
+     "author": "Priya L.",
+     "date": "2026-05-05",
+     "rating": 4,
+     "text": "A few dated fixtures but overall a great stay."
+    },
+    {
+     "id": "VR-1106-R2",
+     "author": "Hannah F.",
+     "date": "2026-05-07",
+     "rating": 3,
+     "text": "We spent every afternoon in the pool."
+    },
+    {
+     "id": "VR-1106-R3",
+     "author": "Marcus I.",
+     "date": "2026-07-17",
+     "rating": 3,
+     "text": "Our kids loved it - plenty of space for them to play."
+    }
+   ]
+  },
+  {
+   "id": "VR-1107",
+   "title": "Ember Landing Townhome",
+   "destination": "Kissimmee",
+   "state": "FL",
+   "scenes": [
+    "theme parks"
+   ],
+   "type": "townhome",
+   "bedrooms": 5,
+   "bathrooms": 3,
+   "sleeps": 10,
+   "nightly_price": 285,
+   "pet_friendly": false,
+   "amenities": [
+    "grill",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.1,
+   "review_count": 180,
+   "description": "A 5-bedroom townhome in Kissimmee, FL that sleeps 10. Thoughtfully furnished with local art. Amenities: grill, pool, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1107-R1",
+     "author": "Avery J.",
+     "date": "2026-08-06",
+     "rating": 4,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1107-R2",
+     "author": "Felix X.",
+     "date": "2026-04-15",
+     "rating": 3,
+     "text": "Cozy and romantic; ideal for a couple's escape."
+    },
+    {
+     "id": "VR-1107-R3",
+     "author": "Lucia U.",
+     "date": "2026-05-24",
+     "rating": 4,
+     "text": "We spent every afternoon in the pool."
+    }
+   ]
+  },
+  {
+   "id": "VR-1108",
+   "title": "Driftwood Ridge Villa",
+   "destination": "Kissimmee",
+   "state": "FL",
+   "scenes": [
+    "theme parks"
+   ],
+   "type": "villa",
+   "bedrooms": 4,
+   "bathrooms": 4,
+   "sleeps": 10,
+   "nightly_price": 295,
+   "pet_friendly": true,
+   "amenities": [
+    "game room",
+    "grill",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.4,
+   "review_count": 165,
+   "description": "A 4-bedroom villa in Kissimmee, FL that sleeps 10. Recently refreshed interiors throughout. Amenities: game room, grill, pool, washer, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1108-R1",
+     "author": "Hannah J.",
+     "date": "2026-02-27",
+     "rating": 4,
+     "text": "A few dated fixtures but overall a great stay."
+    },
+    {
+     "id": "VR-1108-R2",
+     "author": "Omar J.",
+     "date": "2026-09-12",
+     "rating": 4,
+     "text": "The game room kept everyone entertained."
+    },
+    {
+     "id": "VR-1108-R3",
+     "author": "Chloe Q.",
+     "date": "2026-07-23",
+     "rating": 4,
+     "text": "The photos don't do the view justice."
+    }
+   ]
+  },
+  {
+   "id": "VR-1109",
+   "title": "Copper Retreat Cottage",
+   "destination": "Door County",
+   "state": "WI",
+   "scenes": [
+    "lake"
+   ],
+   "type": "cottage",
+   "bedrooms": 2,
+   "bathrooms": 1,
+   "sleeps": 6,
+   "nightly_price": 235,
+   "pet_friendly": false,
+   "amenities": [
+    "kayaks",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "lakefront"
+   ],
+   "rating": 4.3,
+   "review_count": 110,
+   "description": "A 2-bedroom cottage in Door County, WI that sleeps 6. Lakefront lot with its own stretch of shoreline. Thoughtfully furnished with local art. Amenities: kayaks, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1109-R1",
+     "author": "Chloe Y.",
+     "date": "2026-09-15",
+     "rating": 5,
+     "text": "Secluded and private; we barely saw another car all weekend."
+    },
+    {
+     "id": "VR-1109-R2",
+     "author": "Felix P.",
+     "date": "2026-05-04",
+     "rating": 4,
+     "text": "Check-in was easy and the host was responsive."
+    },
+    {
+     "id": "VR-1109-R3",
+     "author": "Marcus I.",
+     "date": "2026-03-18",
+     "rating": 3,
+     "text": "Spotless and exactly as pictured."
+    }
+   ]
+  },
+  {
+   "id": "VR-1110",
+   "title": "Heron Hearth Lake House",
+   "destination": "Door County",
+   "state": "WI",
+   "scenes": [
+    "lake"
+   ],
+   "type": "lake house",
+   "bedrooms": 3,
+   "bathrooms": 2,
+   "sleeps": 7,
+   "nightly_price": 320,
+   "pet_friendly": false,
+   "amenities": [
+    "grill",
+    "kayaks",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "lakefront"
+   ],
+   "rating": 4.0,
+   "review_count": 165,
+   "description": "A 3-bedroom lake house in Door County, WI that sleeps 7. Lakefront lot with its own stretch of shoreline. Open-plan living area with plenty of natural light. Amenities: grill, kayaks, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1110-R1",
+     "author": "Jordan Z.",
+     "date": "2026-02-18",
+     "rating": 3,
+     "text": "Spotless and exactly as pictured."
+    },
+    {
+     "id": "VR-1110-R2",
+     "author": "Hannah L.",
+     "date": "2026-03-13",
+     "rating": 4,
+     "text": "The children had a blast and never wanted to leave."
+    },
+    {
+     "id": "VR-1110-R3",
+     "author": "Priya L.",
+     "date": "2026-05-21",
+     "rating": 4,
+     "text": "Cozy and romantic; ideal for a couple's escape."
+    }
+   ]
+  },
+  {
+   "id": "VR-1111",
+   "title": "Driftwood Retreat Cabin",
+   "destination": "Door County",
+   "state": "WI",
+   "scenes": [
+    "lake"
+   ],
+   "type": "cabin",
+   "bedrooms": 2,
+   "bathrooms": 1,
+   "sleeps": 5,
+   "nightly_price": 310,
+   "pet_friendly": true,
+   "amenities": [
+    "fireplace",
+    "game room",
+    "grill",
+    "hot tub",
+    "kitchen",
+    "sauna",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "lakefront"
+   ],
+   "rating": 4.7,
+   "review_count": 93,
+   "description": "A 2-bedroom cabin in Door County, WI that sleeps 5. Lakefront lot with its own stretch of shoreline. Comfortable, well-kept and easy to settle into. Amenities: fireplace, game room, grill, hot tub, sauna, washer, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1111-R1",
+     "author": "Omar G.",
+     "date": "2026-03-08",
+     "rating": 5,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1111-R2",
+     "author": "Kenji B.",
+     "date": "2026-02-26",
+     "rating": 4,
+     "text": "Plenty of parking and easy access."
+    },
+    {
+     "id": "VR-1111-R3",
+     "author": "Lucia L.",
+     "date": "2026-09-05",
+     "rating": 4,
+     "text": "Great location for exploring the area."
+    }
+   ]
+  },
+  {
+   "id": "VR-1112",
+   "title": "Sandpiper Hollow Cabin",
+   "destination": "Door County",
+   "state": "WI",
+   "scenes": [
+    "lake"
+   ],
+   "type": "cabin",
+   "bedrooms": 5,
+   "bathrooms": 4,
+   "sleeps": 11,
+   "nightly_price": 340,
+   "pet_friendly": false,
+   "amenities": [
+    "fireplace",
+    "game room",
+    "kayaks",
+    "kitchen",
+    "pool",
+    "sauna",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.3,
+   "review_count": 233,
+   "description": "A 5-bedroom cabin in Door County, WI that sleeps 11. Open-plan living area with plenty of natural light. Amenities: fireplace, game room, kayaks, pool, sauna, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1112-R1",
+     "author": "Felix V.",
+     "date": "2026-05-25",
+     "rating": 4,
+     "text": "So peaceful and quiet at night - we could hear the wind in the trees."
+    },
+    {
+     "id": "VR-1112-R2",
+     "author": "Amara X.",
+     "date": "2026-07-12",
+     "rating": 4,
+     "text": "Our kids loved it - plenty of space for them to play."
+    },
+    {
+     "id": "VR-1112-R3",
+     "author": "Amara V.",
+     "date": "2026-07-05",
+     "rating": 3,
+     "text": "We spent every afternoon in the pool."
+    }
+   ]
+  },
+  {
+   "id": "VR-1113",
+   "title": "Sagebrush Lookout Cottage",
+   "destination": "Door County",
+   "state": "WI",
+   "scenes": [
+    "lake"
+   ],
+   "type": "cottage",
+   "bedrooms": 6,
+   "bathrooms": 5,
+   "sleeps": 14,
+   "nightly_price": 400,
+   "pet_friendly": false,
+   "amenities": [
+    "dock",
+    "game room",
+    "kitchen",
+    "wifi"
+   ],
+   "tags": [
+    "lakefront"
+   ],
+   "rating": 4.9,
+   "review_count": 46,
+   "description": "A 6-bedroom cottage in Door County, WI that sleeps 14. Lakefront lot with its own stretch of shoreline. Recently refreshed interiors throughout. Amenities: dock, game room, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1113-R1",
+     "author": "Chloe L.",
+     "date": "2026-02-10",
+     "rating": 5,
+     "text": "The game room kept everyone entertained."
+    },
+    {
+     "id": "VR-1113-R2",
+     "author": "Theo H.",
+     "date": "2026-01-16",
+     "rating": 5,
+     "text": "Plenty of parking and easy access."
+    },
+    {
+     "id": "VR-1113-R3",
+     "author": "Ravi O.",
+     "date": "2026-02-09",
+     "rating": 5,
+     "text": "The children had a blast and never wanted to leave."
+    }
+   ]
+  },
+  {
+   "id": "VR-1114",
+   "title": "Bluebird Nest Cabin",
+   "destination": "Door County",
+   "state": "WI",
+   "scenes": [
+    "lake"
+   ],
+   "type": "cabin",
+   "bedrooms": 2,
+   "bathrooms": 2,
+   "sleeps": 4,
+   "nightly_price": 225,
+   "pet_friendly": false,
+   "amenities": [
+    "hot tub",
+    "kayaks",
+    "kitchen",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [],
+   "rating": 4.7,
+   "review_count": 107,
+   "description": "A 2-bedroom cabin in Door County, WI that sleeps 4. Open-plan living area with plenty of natural light. Amenities: hot tub, kayaks, washer, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1114-R1",
+     "author": "Nadia I.",
+     "date": "2026-05-22",
+     "rating": 4,
+     "text": "The photos don't do the view justice."
+    },
+    {
+     "id": "VR-1114-R2",
+     "author": "Hannah U.",
+     "date": "2026-08-05",
+     "rating": 5,
+     "text": "Great location for exploring the area."
+    },
+    {
+     "id": "VR-1114-R3",
+     "author": "Felix A.",
+     "date": "2026-02-02",
+     "rating": 4,
+     "text": "The hot tub was the highlight of the trip."
+    }
+   ]
+  },
+  {
+   "id": "VR-1115",
+   "title": "Granite Point Cottage",
+   "destination": "Door County",
+   "state": "WI",
+   "scenes": [
+    "lake"
+   ],
+   "type": "cottage",
+   "bedrooms": 4,
+   "bathrooms": 4,
+   "sleeps": 8,
+   "nightly_price": 280,
+   "pet_friendly": false,
+   "amenities": [
+    "dock",
+    "ev charger",
+    "fireplace",
+    "game room",
+    "grill",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.9,
+   "review_count": 222,
+   "description": "A 4-bedroom cottage in Door County, WI that sleeps 8. Recently refreshed interiors throughout. Amenities: dock, ev charger, fireplace, game room, grill, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1115-R1",
+     "author": "Kenji Y.",
+     "date": "2026-01-23",
+     "rating": 5,
+     "text": "Check-in was easy and the host was responsive."
+    },
+    {
+     "id": "VR-1115-R2",
+     "author": "Hannah A.",
+     "date": "2026-08-08",
+     "rating": 5,
+     "text": "The game room kept everyone entertained."
+    },
+    {
+     "id": "VR-1115-R3",
+     "author": "Kenji A.",
+     "date": "2026-07-13",
+     "rating": 5,
+     "text": "Secluded and private; we barely saw another car all weekend."
+    }
+   ]
+  },
+  {
+   "id": "VR-1116",
+   "title": "Tamarack Retreat Lake House",
+   "destination": "Door County",
+   "state": "WI",
+   "scenes": [
+    "lake"
+   ],
+   "type": "lake house",
+   "bedrooms": 2,
+   "bathrooms": 2,
+   "sleeps": 5,
+   "nightly_price": 180,
+   "pet_friendly": true,
+   "amenities": [
+    "dock",
+    "game room",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.0,
+   "review_count": 157,
+   "description": "A 2-bedroom lake house in Door County, WI that sleeps 5. Comfortable, well-kept and easy to settle into. Amenities: dock, game room, washer, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1116-R1",
+     "author": "Ravi K.",
+     "date": "2026-06-26",
+     "rating": 5,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1116-R2",
+     "author": "Kenji X.",
+     "date": "2026-09-18",
+     "rating": 5,
+     "text": "Great location for exploring the area."
+    },
+    {
+     "id": "VR-1116-R3",
+     "author": "Sofia B.",
+     "date": "2026-06-05",
+     "rating": 5,
+     "text": "The game room kept everyone entertained."
+    }
+   ]
+  },
+  {
+   "id": "VR-1117",
+   "title": "Cedar Hearth Cabin",
+   "destination": "Door County",
+   "state": "WI",
+   "scenes": [
+    "lake"
+   ],
+   "type": "cabin",
+   "bedrooms": 3,
+   "bathrooms": 2,
+   "sleeps": 6,
+   "nightly_price": 285,
+   "pet_friendly": true,
+   "amenities": [
+    "dock",
+    "grill",
+    "kitchen",
+    "sauna"
+   ],
+   "tags": [
+    "lakefront",
+    "walkable"
+   ],
+   "rating": 4.7,
+   "review_count": 53,
+   "description": "A 3-bedroom cabin in Door County, WI that sleeps 6. Lakefront lot with its own stretch of shoreline. Walkable to shops and restaurants in town. Thoughtfully furnished with local art. Amenities: dock, grill, sauna, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1117-R1",
+     "author": "Chloe I.",
+     "date": "2026-03-15",
+     "rating": 5,
+     "text": "Great location for exploring the area."
+    },
+    {
+     "id": "VR-1117-R2",
+     "author": "Kenji I.",
+     "date": "2026-04-23",
+     "rating": 5,
+     "text": "A few dated fixtures but overall a great stay."
+    },
+    {
+     "id": "VR-1117-R3",
+     "author": "Ravi L.",
+     "date": "2026-06-24",
+     "rating": 4,
+     "text": "Lively area - expect some street noise on weekends."
+    }
+   ]
+  },
+  {
+   "id": "VR-1118",
+   "title": "Marigold Hearth Cottage",
+   "destination": "Door County",
+   "state": "WI",
+   "scenes": [
+    "lake"
+   ],
+   "type": "cottage",
+   "bedrooms": 5,
+   "bathrooms": 4,
+   "sleeps": 10,
+   "nightly_price": 410,
+   "pet_friendly": true,
+   "amenities": [
+    "fireplace",
+    "grill",
+    "hot tub",
+    "kayaks",
+    "kitchen",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "lakefront"
+   ],
+   "rating": 4.9,
+   "review_count": 147,
+   "description": "A 5-bedroom cottage in Door County, WI that sleeps 10. Lakefront lot with its own stretch of shoreline. Open-plan living area with plenty of natural light. Amenities: fireplace, grill, hot tub, kayaks, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1118-R1",
+     "author": "Ingrid E.",
+     "date": "2026-05-17",
+     "rating": 4,
+     "text": "Cozy and romantic; ideal for a couple's escape."
+    },
+    {
+     "id": "VR-1118-R2",
+     "author": "Ellis S.",
+     "date": "2026-09-24",
+     "rating": 5,
+     "text": "The children had a blast and never wanted to leave."
+    },
+    {
+     "id": "VR-1118-R3",
+     "author": "Ellis F.",
+     "date": "2026-03-20",
+     "rating": 5,
+     "text": "Evenings by the fireplace were the best part."
+    }
+   ]
+  },
+  {
+   "id": "VR-1119",
+   "title": "Copper Hollow Cabin",
+   "destination": "Door County",
+   "state": "WI",
+   "scenes": [
+    "lake"
+   ],
+   "type": "cabin",
+   "bedrooms": 3,
+   "bathrooms": 3,
+   "sleeps": 6,
+   "nightly_price": 285,
+   "pet_friendly": true,
+   "amenities": [
+    "fireplace",
+    "game room",
+    "grill",
+    "hot tub",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "lakefront"
+   ],
+   "rating": 4.3,
+   "review_count": 61,
+   "description": "A 3-bedroom cabin in Door County, WI that sleeps 6. Lakefront lot with its own stretch of shoreline. Comfortable, well-kept and easy to settle into. Amenities: fireplace, game room, grill, hot tub, washer, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1119-R1",
+     "author": "Ellis I.",
+     "date": "2026-07-12",
+     "rating": 3,
+     "text": "Our kids loved it - plenty of space for them to play."
+    },
+    {
+     "id": "VR-1119-R2",
+     "author": "Nadia S.",
+     "date": "2026-04-19",
+     "rating": 5,
+     "text": "Spotless and exactly as pictured."
+    },
+    {
+     "id": "VR-1119-R3",
+     "author": "Theo G.",
+     "date": "2026-05-22",
+     "rating": 4,
+     "text": "Evenings by the fireplace were the best part."
+    }
+   ]
+  },
+  {
+   "id": "VR-1120",
+   "title": "Heron Landing Lake House",
+   "destination": "Door County",
+   "state": "WI",
+   "scenes": [
+    "lake"
+   ],
+   "type": "lake house",
+   "bedrooms": 3,
+   "bathrooms": 2,
+   "sleeps": 8,
+   "nightly_price": 270,
+   "pet_friendly": false,
+   "amenities": [
+    "dock",
+    "grill",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "lakefront"
+   ],
+   "rating": 4.7,
+   "review_count": 220,
+   "description": "A 3-bedroom lake house in Door County, WI that sleeps 8. Lakefront lot with its own stretch of shoreline. Thoughtfully furnished with local art. Amenities: dock, grill, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1120-R1",
+     "author": "Omar R.",
+     "date": "2026-02-25",
+     "rating": 5,
+     "text": "The photos don't do the view justice."
+    },
+    {
+     "id": "VR-1120-R2",
+     "author": "Felix P.",
+     "date": "2026-07-05",
+     "rating": 4,
+     "text": "Plenty of parking and easy access."
+    },
+    {
+     "id": "VR-1120-R3",
+     "author": "Dmitri F.",
+     "date": "2026-08-26",
+     "rating": 4,
+     "text": "Great location for exploring the area."
+    }
+   ]
+  },
+  {
+   "id": "VR-1121",
+   "title": "Lantern Nest Modern Home",
+   "destination": "Joshua Tree",
+   "state": "CA",
+   "scenes": [
+    "desert"
+   ],
+   "type": "modern home",
+   "bedrooms": 1,
+   "bathrooms": 1,
+   "sleeps": 4,
+   "nightly_price": 175,
+   "pet_friendly": true,
+   "amenities": [
+    "kitchen",
+    "pool",
+    "wifi"
+   ],
+   "tags": [
+    "mountain view"
+   ],
+   "rating": 3.9,
+   "review_count": 10,
+   "description": "A 1-bedroom modern home in Joshua Tree, CA that sleeps 4. Big windows frame the mountain views. Recently refreshed interiors throughout. Amenities: pool, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1121-R1",
+     "author": "Ellis G.",
+     "date": "2026-03-24",
+     "rating": 4,
+     "text": "We spent every afternoon in the pool."
+    },
+    {
+     "id": "VR-1121-R2",
+     "author": "Lucia X.",
+     "date": "2026-02-07",
+     "rating": 5,
+     "text": "Great for families with little ones; the host left board games."
+    },
+    {
+     "id": "VR-1121-R3",
+     "author": "Ravi K.",
+     "date": "2026-04-09",
+     "rating": 4,
+     "text": "The photos don't do the view justice."
+    }
+   ]
+  },
+  {
+   "id": "VR-1122",
+   "title": "Bramble Landing Villa",
+   "destination": "Joshua Tree",
+   "state": "CA",
+   "scenes": [
+    "desert"
+   ],
+   "type": "villa",
+   "bedrooms": 2,
+   "bathrooms": 1,
+   "sleeps": 4,
+   "nightly_price": 235,
+   "pet_friendly": false,
+   "amenities": [
+    "ev charger",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.6,
+   "review_count": 147,
+   "description": "A 2-bedroom villa in Joshua Tree, CA that sleeps 4. Open-plan living area with plenty of natural light. Amenities: ev charger, pool, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1122-R1",
+     "author": "Theo N.",
+     "date": "2026-09-25",
+     "rating": 5,
+     "text": "Plenty of parking and easy access."
+    },
+    {
+     "id": "VR-1122-R2",
+     "author": "Amara B.",
+     "date": "2026-04-18",
+     "rating": 5,
+     "text": "We spent every afternoon in the pool."
+    },
+    {
+     "id": "VR-1122-R3",
+     "author": "Hannah L.",
+     "date": "2026-03-11",
+     "rating": 5,
+     "text": "Great location for exploring the area."
+    }
+   ]
+  },
+  {
+   "id": "VR-1123",
+   "title": "Granite Landing Modern Home",
+   "destination": "Joshua Tree",
+   "state": "CA",
+   "scenes": [
+    "desert"
+   ],
+   "type": "modern home",
+   "bedrooms": 2,
+   "bathrooms": 2,
+   "sleeps": 6,
+   "nightly_price": 160,
+   "pet_friendly": false,
+   "amenities": [
+    "kitchen",
+    "wifi"
+   ],
+   "tags": [
+    "mountain view"
+   ],
+   "rating": 4.4,
+   "review_count": 108,
+   "description": "A 2-bedroom modern home in Joshua Tree, CA that sleeps 6. Big windows frame the mountain views. Open-plan living area with plenty of natural light. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1123-R1",
+     "author": "Ingrid Z.",
+     "date": "2026-05-11",
+     "rating": 4,
+     "text": "Great for families with little ones; the host left board games."
+    },
+    {
+     "id": "VR-1123-R2",
+     "author": "Dmitri C.",
+     "date": "2026-07-24",
+     "rating": 5,
+     "text": "Cozy and romantic; ideal for a couple's escape."
+    },
+    {
+     "id": "VR-1123-R3",
+     "author": "Felix C.",
+     "date": "2026-08-20",
+     "rating": 4,
+     "text": "So peaceful and quiet at night - we could hear the wind in the trees."
+    }
+   ]
+  },
+  {
+   "id": "VR-1124",
+   "title": "Seaglass Hideaway Casita",
+   "destination": "Joshua Tree",
+   "state": "CA",
+   "scenes": [
+    "desert"
+   ],
+   "type": "casita",
+   "bedrooms": 1,
+   "bathrooms": 1,
+   "sleeps": 4,
+   "nightly_price": 235,
+   "pet_friendly": true,
+   "amenities": [
+    "grill",
+    "hot tub",
+    "pool",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "walkable"
+   ],
+   "rating": 4.8,
+   "review_count": 102,
+   "description": "A 1-bedroom casita in Joshua Tree, CA that sleeps 4. Walkable to shops and restaurants in town. Thoughtfully furnished with local art. Amenities: grill, hot tub, pool, washer, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1124-R1",
+     "author": "Chloe H.",
+     "date": "2026-03-18",
+     "rating": 4,
+     "text": "We spent every afternoon in the pool."
+    },
+    {
+     "id": "VR-1124-R2",
+     "author": "Dmitri B.",
+     "date": "2026-04-15",
+     "rating": 4,
+     "text": "Lively area - expect some street noise on weekends."
+    },
+    {
+     "id": "VR-1124-R3",
+     "author": "Grace S.",
+     "date": "2026-09-17",
+     "rating": 5,
+     "text": "Cozy and romantic; ideal for a couple's escape."
+    }
+   ]
+  },
+  {
+   "id": "VR-1125",
+   "title": "Saltwind Retreat Villa",
+   "destination": "Joshua Tree",
+   "state": "CA",
+   "scenes": [
+    "desert"
+   ],
+   "type": "villa",
+   "bedrooms": 5,
+   "bathrooms": 5,
+   "sleeps": 11,
+   "nightly_price": 355,
+   "pet_friendly": false,
+   "amenities": [
+    "fireplace",
+    "game room",
+    "grill",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.4,
+   "review_count": 99,
+   "description": "A 5-bedroom villa in Joshua Tree, CA that sleeps 11. Open-plan living area with plenty of natural light. Amenities: fireplace, game room, grill, pool, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1125-R1",
+     "author": "Sofia Z.",
+     "date": "2026-08-24",
+     "rating": 4,
+     "text": "We spent every afternoon in the pool."
+    },
+    {
+     "id": "VR-1125-R2",
+     "author": "Mateo G.",
+     "date": "2026-04-10",
+     "rating": 5,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1125-R3",
+     "author": "Chloe D.",
+     "date": "2026-02-01",
+     "rating": 4,
+     "text": "Spotless and exactly as pictured."
+    }
+   ]
+  },
+  {
+   "id": "VR-1126",
+   "title": "Starlight Point Casita",
+   "destination": "Joshua Tree",
+   "state": "CA",
+   "scenes": [
+    "desert"
+   ],
+   "type": "casita",
+   "bedrooms": 5,
+   "bathrooms": 4,
+   "sleeps": 11,
+   "nightly_price": 345,
+   "pet_friendly": true,
+   "amenities": [
+    "grill",
+    "hot tub",
+    "kitchen",
+    "pool",
+    "washer"
+   ],
+   "tags": [],
+   "rating": 3.9,
+   "review_count": 9,
+   "description": "A 5-bedroom casita in Joshua Tree, CA that sleeps 11. Thoughtfully furnished with local art. Amenities: grill, hot tub, pool, washer, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1126-R1",
+     "author": "Ravi B.",
+     "date": "2026-01-08",
+     "rating": 3,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1126-R2",
+     "author": "Chloe O.",
+     "date": "2026-08-02",
+     "rating": 4,
+     "text": "The children had a blast and never wanted to leave."
+    },
+    {
+     "id": "VR-1126-R3",
+     "author": "Theo D.",
+     "date": "2026-01-24",
+     "rating": 3,
+     "text": "Perfect for a romantic getaway - we celebrated our anniversary here."
+    }
+   ]
+  },
+  {
+   "id": "VR-1127",
+   "title": "Copper Grove Casita",
+   "destination": "Joshua Tree",
+   "state": "CA",
+   "scenes": [
+    "desert"
+   ],
+   "type": "casita",
+   "bedrooms": 7,
+   "bathrooms": 7,
+   "sleeps": 15,
+   "nightly_price": 360,
+   "pet_friendly": false,
+   "amenities": [
+    "game room",
+    "kitchen",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "walkable"
+   ],
+   "rating": 4.7,
+   "review_count": 210,
+   "description": "A 7-bedroom casita in Joshua Tree, CA that sleeps 15. Walkable to shops and restaurants in town. Open-plan living area with plenty of natural light. Amenities: game room, washer, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1127-R1",
+     "author": "Marcus J.",
+     "date": "2026-02-22",
+     "rating": 4,
+     "text": "A tranquil, quiet escape from city life."
+    },
+    {
+     "id": "VR-1127-R2",
+     "author": "Marcus Q.",
+     "date": "2026-06-03",
+     "rating": 5,
+     "text": "The game room kept everyone entertained."
+    },
+    {
+     "id": "VR-1127-R3",
+     "author": "Dmitri J.",
+     "date": "2026-01-11",
+     "rating": 5,
+     "text": "Great for families with little ones; the host left board games."
+    }
+   ]
+  },
+  {
+   "id": "VR-1128",
+   "title": "Starlight Cove Modern Home",
+   "destination": "Joshua Tree",
+   "state": "CA",
+   "scenes": [
+    "desert"
+   ],
+   "type": "modern home",
+   "bedrooms": 4,
+   "bathrooms": 3,
+   "sleeps": 10,
+   "nightly_price": 270,
+   "pet_friendly": false,
+   "amenities": [
+    "grill",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "walkable"
+   ],
+   "rating": 4.0,
+   "review_count": 6,
+   "description": "A 4-bedroom modern home in Joshua Tree, CA that sleeps 10. Walkable to shops and restaurants in town. Comfortable, well-kept and easy to settle into. Amenities: grill, pool, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1128-R1",
+     "author": "Mateo E.",
+     "date": "2026-09-15",
+     "rating": 3,
+     "text": "We spent every afternoon in the pool."
+    },
+    {
+     "id": "VR-1128-R2",
+     "author": "Priya T.",
+     "date": "2026-05-28",
+     "rating": 4,
+     "text": "Great for families with little ones; the host left board games."
+    },
+    {
+     "id": "VR-1128-R3",
+     "author": "Marcus S.",
+     "date": "2026-08-28",
+     "rating": 5,
+     "text": "Lively area - expect some street noise on weekends."
+    }
+   ]
+  },
+  {
+   "id": "VR-1129",
+   "title": "Ember Grove Casita",
+   "destination": "Joshua Tree",
+   "state": "CA",
+   "scenes": [
+    "desert"
+   ],
+   "type": "casita",
+   "bedrooms": 2,
+   "bathrooms": 1,
+   "sleeps": 6,
+   "nightly_price": 265,
+   "pet_friendly": true,
+   "amenities": [
+    "hot tub",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.4,
+   "review_count": 151,
+   "description": "A 2-bedroom casita in Joshua Tree, CA that sleeps 6. Comfortable, well-kept and easy to settle into. Amenities: hot tub, pool, washer, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1129-R1",
+     "author": "Sofia E.",
+     "date": "2026-08-09",
+     "rating": 4,
+     "text": "The children had a blast and never wanted to leave."
+    },
+    {
+     "id": "VR-1129-R2",
+     "author": "Marcus O.",
+     "date": "2026-09-04",
+     "rating": 4,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1129-R3",
+     "author": "Avery L.",
+     "date": "2026-09-10",
+     "rating": 5,
+     "text": "The photos don't do the view justice."
+    }
+   ]
+  },
+  {
+   "id": "VR-1130",
+   "title": "Cedar Nest Villa",
+   "destination": "Joshua Tree",
+   "state": "CA",
+   "scenes": [
+    "desert"
+   ],
+   "type": "villa",
+   "bedrooms": 3,
+   "bathrooms": 2,
+   "sleeps": 6,
+   "nightly_price": 195,
+   "pet_friendly": false,
+   "amenities": [
+    "grill",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.9,
+   "review_count": 207,
+   "description": "A 3-bedroom villa in Joshua Tree, CA that sleeps 6. Open-plan living area with plenty of natural light. Amenities: grill, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1130-R1",
+     "author": "Kenji V.",
+     "date": "2026-02-15",
+     "rating": 5,
+     "text": "The children had a blast and never wanted to leave."
+    },
+    {
+     "id": "VR-1130-R2",
+     "author": "Avery W.",
+     "date": "2026-05-24",
+     "rating": 5,
+     "text": "A tranquil, quiet escape from city life."
+    },
+    {
+     "id": "VR-1130-R3",
+     "author": "Theo P.",
+     "date": "2026-01-05",
+     "rating": 4,
+     "text": "The photos don't do the view justice."
+    }
+   ]
+  },
+  {
+   "id": "VR-1131",
+   "title": "Sandpiper Perch Casita",
+   "destination": "Joshua Tree",
+   "state": "CA",
+   "scenes": [
+    "desert"
+   ],
+   "type": "casita",
+   "bedrooms": 2,
+   "bathrooms": 1,
+   "sleeps": 4,
+   "nightly_price": 235,
+   "pet_friendly": false,
+   "amenities": [
+    "grill",
+    "hot tub",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.6,
+   "review_count": 119,
+   "description": "A 2-bedroom casita in Joshua Tree, CA that sleeps 4. Thoughtfully furnished with local art. Amenities: grill, hot tub, pool, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1131-R1",
+     "author": "Grace T.",
+     "date": "2026-02-23",
+     "rating": 5,
+     "text": "Beds were comfortable and the kitchen had everything we needed."
+    },
+    {
+     "id": "VR-1131-R2",
+     "author": "Sofia K.",
+     "date": "2026-03-06",
+     "rating": 4,
+     "text": "Great location for exploring the area."
+    },
+    {
+     "id": "VR-1131-R3",
+     "author": "Ravi T.",
+     "date": "2026-08-27",
+     "rating": 5,
+     "text": "The hot tub was the highlight of the trip."
+    }
+   ]
+  },
+  {
+   "id": "VR-1132",
+   "title": "Aspen Perch Casita",
+   "destination": "Joshua Tree",
+   "state": "CA",
+   "scenes": [
+    "desert"
+   ],
+   "type": "casita",
+   "bedrooms": 6,
+   "bathrooms": 6,
+   "sleeps": 12,
+   "nightly_price": 350,
+   "pet_friendly": true,
+   "amenities": [
+    "grill",
+    "kitchen",
+    "pool",
+    "wifi"
+   ],
+   "tags": [
+    "mountain view"
+   ],
+   "rating": 4.8,
+   "review_count": 91,
+   "description": "A 6-bedroom casita in Joshua Tree, CA that sleeps 12. Big windows frame the mountain views. Thoughtfully furnished with local art. Amenities: grill, pool, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1132-R1",
+     "author": "Amara A.",
+     "date": "2026-01-10",
+     "rating": 5,
+     "text": "The photos don't do the view justice."
+    },
+    {
+     "id": "VR-1132-R2",
+     "author": "Amara S.",
+     "date": "2026-07-03",
+     "rating": 5,
+     "text": "Beds were comfortable and the kitchen had everything we needed."
+    },
+    {
+     "id": "VR-1132-R3",
+     "author": "Ingrid Y.",
+     "date": "2026-04-24",
+     "rating": 5,
+     "text": "We spent every afternoon in the pool."
+    }
+   ]
+  },
+  {
+   "id": "VR-1133",
+   "title": "Aspen Hearth Cottage",
+   "destination": "Hilton Head",
+   "state": "SC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "cottage",
+   "bedrooms": 5,
+   "bathrooms": 4,
+   "sleeps": 12,
+   "nightly_price": 480,
+   "pet_friendly": false,
+   "amenities": [
+    "game room",
+    "kitchen",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [],
+   "rating": 4.5,
+   "review_count": 10,
+   "description": "A 5-bedroom cottage in Hilton Head, SC that sleeps 12. Recently refreshed interiors throughout. Amenities: game room, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1133-R1",
+     "author": "Chloe P.",
+     "date": "2026-05-18",
+     "rating": 5,
+     "text": "Spotless and exactly as pictured."
+    },
+    {
+     "id": "VR-1133-R2",
+     "author": "Hannah X.",
+     "date": "2026-08-02",
+     "rating": 4,
+     "text": "The photos don't do the view justice."
+    },
+    {
+     "id": "VR-1133-R3",
+     "author": "Ingrid K.",
+     "date": "2026-05-13",
+     "rating": 5,
+     "text": "The desk setup made working remotely easy."
+    }
+   ]
+  },
+  {
+   "id": "VR-1134",
+   "title": "Bluebird Grove Cottage",
+   "destination": "Hilton Head",
+   "state": "SC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "cottage",
+   "bedrooms": 3,
+   "bathrooms": 3,
+   "sleeps": 8,
+   "nightly_price": 370,
+   "pet_friendly": false,
+   "amenities": [
+    "grill",
+    "hot tub",
+    "kitchen",
+    "wifi"
+   ],
+   "tags": [
+    "ocean view",
+    "walkable"
+   ],
+   "rating": 4.0,
+   "review_count": 106,
+   "description": "A 3-bedroom cottage in Hilton Head, SC that sleeps 8. Wake up to ocean views from the main bedroom. Walkable to shops and restaurants in town. Open-plan living area with plenty of natural light. Amenities: grill, hot tub, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1134-R1",
+     "author": "Mateo K.",
+     "date": "2026-05-13",
+     "rating": 3,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1134-R2",
+     "author": "Marcus D.",
+     "date": "2026-03-07",
+     "rating": 4,
+     "text": "Lively area - expect some street noise on weekends."
+    },
+    {
+     "id": "VR-1134-R3",
+     "author": "Ingrid X.",
+     "date": "2026-03-13",
+     "rating": 4,
+     "text": "The children had a blast and never wanted to leave."
+    }
+   ]
+  },
+  {
+   "id": "VR-1135",
+   "title": "Saltwind Hearth Condo",
+   "destination": "Hilton Head",
+   "state": "SC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "condo",
+   "bedrooms": 3,
+   "bathrooms": 3,
+   "sleeps": 8,
+   "nightly_price": 290,
+   "pet_friendly": false,
+   "amenities": [
+    "game room",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "walkable"
+   ],
+   "rating": 4.2,
+   "review_count": 42,
+   "description": "A 3-bedroom condo in Hilton Head, SC that sleeps 8. Walkable to shops and restaurants in town. Comfortable, well-kept and easy to settle into. Amenities: game room, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1135-R1",
+     "author": "Dmitri I.",
+     "date": "2026-01-12",
+     "rating": 3,
+     "text": "Spotless and exactly as pictured."
+    },
+    {
+     "id": "VR-1135-R2",
+     "author": "Kenji Q.",
+     "date": "2026-06-21",
+     "rating": 3,
+     "text": "The game room kept everyone entertained."
+    },
+    {
+     "id": "VR-1135-R3",
+     "author": "Kenji N.",
+     "date": "2026-02-27",
+     "rating": 4,
+     "text": "Great location for exploring the area."
+    }
+   ]
+  },
+  {
+   "id": "VR-1136",
+   "title": "Starlight Lookout Cottage",
+   "destination": "Hilton Head",
+   "state": "SC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "cottage",
+   "bedrooms": 5,
+   "bathrooms": 5,
+   "sleeps": 12,
+   "nightly_price": 500,
+   "pet_friendly": false,
+   "amenities": [
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [
+    "ocean view"
+   ],
+   "rating": 4.0,
+   "review_count": 135,
+   "description": "A 5-bedroom cottage in Hilton Head, SC that sleeps 12. Wake up to ocean views from the main bedroom. Comfortable, well-kept and easy to settle into. Amenities: washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1136-R1",
+     "author": "Priya P.",
+     "date": "2026-05-17",
+     "rating": 4,
+     "text": "The children had a blast and never wanted to leave."
+    },
+    {
+     "id": "VR-1136-R2",
+     "author": "Felix I.",
+     "date": "2026-04-18",
+     "rating": 5,
+     "text": "Beds were comfortable and the kitchen had everything we needed."
+    },
+    {
+     "id": "VR-1136-R3",
+     "author": "Chloe B.",
+     "date": "2026-08-19",
+     "rating": 5,
+     "text": "Would happily book again."
+    }
+   ]
+  },
+  {
+   "id": "VR-1137",
+   "title": "Foxglove Hearth Beach House",
+   "destination": "Hilton Head",
+   "state": "SC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "beach house",
+   "bedrooms": 4,
+   "bathrooms": 4,
+   "sleeps": 8,
+   "nightly_price": 470,
+   "pet_friendly": false,
+   "amenities": [
+    "hot tub",
+    "kitchen",
+    "pool",
+    "washer",
+    "workspace"
+   ],
+   "tags": [
+    "ocean view"
+   ],
+   "rating": 4.3,
+   "review_count": 53,
+   "description": "A 4-bedroom beach house in Hilton Head, SC that sleeps 8. Wake up to ocean views from the main bedroom. Open-plan living area with plenty of natural light. Amenities: hot tub, pool, washer, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1137-R1",
+     "author": "Nadia R.",
+     "date": "2026-02-18",
+     "rating": 3,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1137-R2",
+     "author": "Jordan I.",
+     "date": "2026-05-17",
+     "rating": 3,
+     "text": "Great location for exploring the area."
+    },
+    {
+     "id": "VR-1137-R3",
+     "author": "Omar J.",
+     "date": "2026-02-20",
+     "rating": 3,
+     "text": "Plenty of parking and easy access."
+    }
+   ]
+  },
+  {
+   "id": "VR-1138",
+   "title": "Bramble Point Condo",
+   "destination": "Hilton Head",
+   "state": "SC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "condo",
+   "bedrooms": 6,
+   "bathrooms": 5,
+   "sleeps": 12,
+   "nightly_price": 490,
+   "pet_friendly": true,
+   "amenities": [
+    "ev charger",
+    "hot tub",
+    "kayaks",
+    "kitchen",
+    "washer",
+    "wifi"
+   ],
+   "tags": [],
+   "rating": 4.7,
+   "review_count": 164,
+   "description": "A 6-bedroom condo in Hilton Head, SC that sleeps 12. Open-plan living area with plenty of natural light. Amenities: ev charger, hot tub, kayaks, washer, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1138-R1",
+     "author": "Marcus D.",
+     "date": "2026-01-11",
+     "rating": 5,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1138-R2",
+     "author": "Kenji Y.",
+     "date": "2026-06-09",
+     "rating": 5,
+     "text": "The hot tub was the highlight of the trip."
+    },
+    {
+     "id": "VR-1138-R3",
+     "author": "Felix H.",
+     "date": "2026-02-26",
+     "rating": 5,
+     "text": "A few dated fixtures but overall a great stay."
+    }
+   ]
+  },
+  {
+   "id": "VR-1139",
+   "title": "Mesquite Hearth Cottage",
+   "destination": "Hilton Head",
+   "state": "SC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "cottage",
+   "bedrooms": 6,
+   "bathrooms": 6,
+   "sleeps": 12,
+   "nightly_price": 550,
+   "pet_friendly": false,
+   "amenities": [
+    "hot tub",
+    "kitchen",
+    "washer"
+   ],
+   "tags": [
+    "beachfront",
+    "walkable"
+   ],
+   "rating": 4.7,
+   "review_count": 27,
+   "description": "A 6-bedroom cottage in Hilton Head, SC that sleeps 12. Beachfront - walk straight from the deck onto the sand. Walkable to shops and restaurants in town. Comfortable, well-kept and easy to settle into. Amenities: hot tub, washer, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1139-R1",
+     "author": "Lucia E.",
+     "date": "2026-09-15",
+     "rating": 5,
+     "text": "Great location for exploring the area."
+    },
+    {
+     "id": "VR-1139-R2",
+     "author": "Amara L.",
+     "date": "2026-03-09",
+     "rating": 5,
+     "text": "Lively area - expect some street noise on weekends."
+    },
+    {
+     "id": "VR-1139-R3",
+     "author": "Ravi N.",
+     "date": "2026-04-08",
+     "rating": 5,
+     "text": "The hot tub was the highlight of the trip."
+    }
+   ]
+  },
+  {
+   "id": "VR-1140",
+   "title": "Pinecone Retreat Cottage",
+   "destination": "Hilton Head",
+   "state": "SC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "cottage",
+   "bedrooms": 3,
+   "bathrooms": 3,
+   "sleeps": 6,
+   "nightly_price": 360,
+   "pet_friendly": false,
+   "amenities": [
+    "game room",
+    "kitchen",
+    "sauna",
+    "wifi"
+   ],
+   "tags": [
+    "ocean view"
+   ],
+   "rating": 4.6,
+   "review_count": 216,
+   "description": "A 3-bedroom cottage in Hilton Head, SC that sleeps 6. Wake up to ocean views from the main bedroom. Open-plan living area with plenty of natural light. Amenities: game room, sauna, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1140-R1",
+     "author": "Sofia X.",
+     "date": "2026-01-28",
+     "rating": 4,
+     "text": "The photos don't do the view justice."
+    },
+    {
+     "id": "VR-1140-R2",
+     "author": "Sofia P.",
+     "date": "2026-03-13",
+     "rating": 4,
+     "text": "Spotless and exactly as pictured."
+    },
+    {
+     "id": "VR-1140-R3",
+     "author": "Sofia C.",
+     "date": "2026-05-13",
+     "rating": 4,
+     "text": "The game room kept everyone entertained."
+    }
+   ]
+  },
+  {
+   "id": "VR-1141",
+   "title": "Sandpiper Hearth Beach House",
+   "destination": "Hilton Head",
+   "state": "SC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "beach house",
+   "bedrooms": 3,
+   "bathrooms": 2,
+   "sleeps": 8,
+   "nightly_price": 380,
+   "pet_friendly": false,
+   "amenities": [
+    "fireplace",
+    "hot tub",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "walkable"
+   ],
+   "rating": 4.9,
+   "review_count": 137,
+   "description": "A 3-bedroom beach house in Hilton Head, SC that sleeps 8. Walkable to shops and restaurants in town. Thoughtfully furnished with local art. Amenities: fireplace, hot tub, pool, washer, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1141-R1",
+     "author": "Lucia H.",
+     "date": "2026-08-13",
+     "rating": 5,
+     "text": "Spotless and exactly as pictured."
+    },
+    {
+     "id": "VR-1141-R2",
+     "author": "Felix Z.",
+     "date": "2026-05-13",
+     "rating": 4,
+     "text": "A few dated fixtures but overall a great stay."
+    },
+    {
+     "id": "VR-1141-R3",
+     "author": "Dmitri D.",
+     "date": "2026-07-01",
+     "rating": 5,
+     "text": "The hot tub was the highlight of the trip."
+    }
+   ]
+  },
+  {
+   "id": "VR-1142",
+   "title": "Driftwood Point Condo",
+   "destination": "Hilton Head",
+   "state": "SC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "condo",
+   "bedrooms": 1,
+   "bathrooms": 1,
+   "sleeps": 2,
+   "nightly_price": 230,
+   "pet_friendly": true,
+   "amenities": [
+    "fireplace",
+    "grill",
+    "kitchen",
+    "wifi"
+   ],
+   "tags": [
+    "beachfront",
+    "ocean view"
+   ],
+   "rating": 4.4,
+   "review_count": 9,
+   "description": "A 1-bedroom condo in Hilton Head, SC that sleeps 2. Beachfront - walk straight from the deck onto the sand. Wake up to ocean views from the main bedroom. Comfortable, well-kept and easy to settle into. Amenities: fireplace, grill, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1142-R1",
+     "author": "Jordan Y.",
+     "date": "2026-04-09",
+     "rating": 4,
+     "text": "Our kids loved it - plenty of space for them to play."
+    },
+    {
+     "id": "VR-1142-R2",
+     "author": "Marcus F.",
+     "date": "2026-02-09",
+     "rating": 3,
+     "text": "Evenings by the fireplace were the best part."
+    },
+    {
+     "id": "VR-1142-R3",
+     "author": "Dmitri E.",
+     "date": "2026-08-10",
+     "rating": 5,
+     "text": "A few dated fixtures but overall a great stay."
+    }
+   ]
+  },
+  {
+   "id": "VR-1143",
+   "title": "Copper Ridge Beach House",
+   "destination": "Hilton Head",
+   "state": "SC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "beach house",
+   "bedrooms": 4,
+   "bathrooms": 4,
+   "sleeps": 10,
+   "nightly_price": 510,
+   "pet_friendly": false,
+   "amenities": [
+    "grill",
+    "kayaks",
+    "pool",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "beachfront",
+    "ocean view",
+    "walkable"
+   ],
+   "rating": 4.7,
+   "review_count": 123,
+   "description": "A 4-bedroom beach house in Hilton Head, SC that sleeps 10. Beachfront - walk straight from the deck onto the sand. Wake up to ocean views from the main bedroom. Walkable to shops and restaurants in town. Recently refreshed interiors throughout. Amenities: grill, kayaks, pool, washer, workspace, plus wifi and a full kitchen. Sorry, no pets.",
+   "reviews": [
+    {
+     "id": "VR-1143-R1",
+     "author": "Sofia Q.",
+     "date": "2026-08-27",
+     "rating": 5,
+     "text": "Would happily book again."
+    },
+    {
+     "id": "VR-1143-R2",
+     "author": "Jordan E.",
+     "date": "2026-05-20",
+     "rating": 4,
+     "text": "The desk setup made working remotely easy."
+    },
+    {
+     "id": "VR-1143-R3",
+     "author": "Hannah X.",
+     "date": "2026-08-19",
+     "rating": 5,
+     "text": "Lively area - expect some street noise on weekends."
+    }
+   ]
+  },
+  {
+   "id": "VR-1144",
+   "title": "Granite Lookout Condo",
+   "destination": "Hilton Head",
+   "state": "SC",
+   "scenes": [
+    "beach"
+   ],
+   "type": "condo",
+   "bedrooms": 1,
+   "bathrooms": 1,
+   "sleeps": 2,
+   "nightly_price": 310,
+   "pet_friendly": true,
+   "amenities": [
+    "game room",
+    "grill",
+    "kitchen",
+    "pool",
+    "washer",
+    "wifi",
+    "workspace"
+   ],
+   "tags": [
+    "beachfront",
+    "ocean view",
+    "walkable"
+   ],
+   "rating": 4.6,
+   "review_count": 124,
+   "description": "A 1-bedroom condo in Hilton Head, SC that sleeps 2. Beachfront - walk straight from the deck onto the sand. Wake up to ocean views from the main bedroom. Walkable to shops and restaurants in town. Recently refreshed interiors throughout. Amenities: game room, grill, pool, washer, workspace, plus wifi and a full kitchen. Pets welcome (fee applies).",
+   "reviews": [
+    {
+     "id": "VR-1144-R1",
+     "author": "Felix G.",
+     "date": "2026-06-23",
+     "rating": 4,
+     "text": "The desk setup made working remotely easy."
+    },
+    {
+     "id": "VR-1144-R2",
+     "author": "Mateo K.",
+     "date": "2026-02-23",
+     "rating": 5,
+     "text": "The children had a blast and never wanted to leave."
+    },
+    {
+     "id": "VR-1144-R3",
+     "author": "Kenji Q.",
+     "date": "2026-03-20",
+     "rating": 5,
+     "text": "Great location for exploring the area."
+    }
+   ]
+  }
+ ]
+}
