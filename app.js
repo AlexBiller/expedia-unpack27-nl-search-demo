@@ -255,7 +255,9 @@
   document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeTrace(); });
   window.addEventListener("hashchange", route);
 
-  Promise.all([fetch("data/listings.json").then((r) => r.json()), fetch("data/eval_set.json").then((r) => r.json())]).then(([l, ev]) => {
+  const loadData = window.SEED_DATA ? Promise.resolve([window.SEED_DATA.listings, window.SEED_DATA.evalSet])
+    : Promise.all([fetch("data/listings.json").then((r) => r.json()), fetch("data/eval_set.json").then((r) => r.json())]);
+  loadData.then(([l, ev]) => {
     state.listings = l.listings;
     state.listings.forEach((L) => state.byId.set(L.id, L));
     state.evalSet = ev;
